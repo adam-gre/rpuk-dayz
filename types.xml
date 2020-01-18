@@ -822,7 +822,7 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_556x45">
-        <nominal>50</nominal>
+        <nominal>75</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -2166,10 +2166,10 @@
         <usage name="Village"/>
     </type>
     <type name="Battery9V">
-        <nominal>100</nominal>
+        <nominal>120</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>80</min>
+        <min>90</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16129,5 +16129,27 @@
         <category name="food"/>
         <usage name="Farm"/>
         <usage name="Hunting"/>
+    </type>
+    <type name="Spraycan_Green">
+        <nominal>35</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="equipment"/>
+    </type>
+    <type name="Spraycan_Black">
+        <nominal>35</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="equipment"/>
     </type>
 </types>

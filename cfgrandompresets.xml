@@ -112,8 +112,10 @@
 				<item name="Crowbar" chance="0.07" />
 				<item name="Rope" chance="0.1" />
 				<item name="DuctTape" chance="0.1" />
-				<item name="Battery9V" chance="0.2" />
+				<item name="Battery9V" chance="0.3" />
 				<item name="Flashlight" chance="0.2" />
+				<item name="Spraycan_Green" chance="0.4" />
+				<item name="Spraycan_Black" chance="0.4" />
 		</cargo>
 		<cargo chance="0.15" name="ammoCivil">
 				<item name="Ammo_380" chance="0.22" />
