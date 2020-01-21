@@ -1,4 +1,4 @@
-# Pull requests will be merged by Adam once changes are confirmed
+# Roleplay.co.uk DayZ
 ###### Changelog 
 
 - Added V3S
