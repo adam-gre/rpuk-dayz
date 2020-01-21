@@ -56,15 +56,15 @@ class PlayerConstants
 	//--------------------------------------------------------
 	static const float METABOLIC_SPEED_ENERGY_BASAL		= 0.01;		//energy loss per second while idle
 	
-	static const float METABOLIC_SPEED_ENERGY_WALK		= 0.08;		//energy loss per second
-	static const float METABOLIC_SPEED_ENERGY_JOG		= 0.3;		//energy loss per second
-	static const float METABOLIC_SPEED_ENERGY_SPRINT	= 0.6;		//energy loss per second
+	static const float METABOLIC_SPEED_ENERGY_WALK		= 0.02;		//energy loss per second
+	static const float METABOLIC_SPEED_ENERGY_JOG		= 0.1;		//energy loss per second
+	static const float METABOLIC_SPEED_ENERGY_SPRINT	= 0.3;		//energy loss per second
 	
 	static const float METABOLIC_SPEED_WATER_BASAL		= 0.02;		//water loss per second while idle
 	
-	static const float METABOLIC_SPEED_WATER_WALK		= 0.08;		//water loss per second
+	static const float METABOLIC_SPEED_WATER_WALK		= 0.04;		//water loss per second
 	static const float METABOLIC_SPEED_WATER_JOG		= 0.3;		//water loss per second
-	static const float METABOLIC_SPEED_WATER_SPRINT		= 0.5;		//water loss per second
+	static const float METABOLIC_SPEED_WATER_SPRINT		= 0.6;		//water loss per second
 	//--------------------------------------------------------
 	
 	static const float	THRESHOLD_HEAT_COMFORT_PLUS_WARNING		= 0.2;	//missing comment

@@ -471,19 +471,19 @@ class GameConstants
 	 * @{
 	 */
 		// unit = currently percent (stamina max is 100)
-	const int 	STAMINA_DRAIN_STANDING_SPRINT_PER_SEC = 4; //in units (how much sprint depletes stamina)
-	const int 	STAMINA_DRAIN_CROUCHED_SPRINT_PER_SEC = 1; //in units (how much sprint in crouch depletes stamina)
-	const int 	STAMINA_DRAIN_PRONE_SPRINT_PER_SEC = 3; //in units (how much sprint in prone depletes stamina)
-	const int	STAMINA_DRAIN_SWIM_FAST_PER_SEC = 5; //in units (how much fast swimming depletes stamina)
-	const int	STAMINA_DRAIN_LADDER_FAST_PER_SEC = 8; //in units (how much fast ladder climb depletes stamina)
+	const int 	STAMINA_DRAIN_STANDING_SPRINT_PER_SEC = -1; //in units (how much sprint depletes stamina)
+	const int 	STAMINA_DRAIN_CROUCHED_SPRINT_PER_SEC = -1; //in units (how much sprint in crouch depletes stamina)
+	const int 	STAMINA_DRAIN_PRONE_SPRINT_PER_SEC = -1; //in units (how much sprint in prone depletes stamina)
+	const int	STAMINA_DRAIN_SWIM_FAST_PER_SEC = -1; //in units (how much fast swimming depletes stamina)
+	const int	STAMINA_DRAIN_LADDER_FAST_PER_SEC = -1; //in units (how much fast ladder climb depletes stamina)
 	
 	const float	STAMINA_DRAIN_HOLD_BREATH = 0.2; //in units (how much holding breath depletes stamina)
-	const float	STAMINA_DRAIN_JUMP = 25;		// in units (how much jumping depletes stamina)
-	const float	STAMINA_DRAIN_VAULT = 20;		// in units (how much jumping depletes stamina)
-	const float	STAMINA_DRAIN_CLIMB = 42;		// in units (how much jumping depletes stamina)
-	const float	STAMINA_DRAIN_MELEE_LIGHT = 5; //in units (how much light melee punch depletes stamina)
-	const float	STAMINA_DRAIN_MELEE_HEAVY = 25; //in units (how much heavy melee punch depletes stamina)
-	const float	STAMINA_DRAIN_MELEE_EVADE = 8; // in units (how much evade depletes stamina)
+	const float	STAMINA_DRAIN_JUMP = -1;		// in units (how much jumping depletes stamina)
+	const float	STAMINA_DRAIN_VAULT = -1;		// in units (how much jumping depletes stamina)
+	const float	STAMINA_DRAIN_CLIMB = -1;		// in units (how much jumping depletes stamina)
+	const float	STAMINA_DRAIN_MELEE_LIGHT = -1; //in units (how much light melee punch depletes stamina)
+	const float	STAMINA_DRAIN_MELEE_HEAVY = -1; //in units (how much heavy melee punch depletes stamina)
+	const float	STAMINA_DRAIN_MELEE_EVADE = -1; // in units (how much evade depletes stamina)
 		
 	const int 	STAMINA_GAIN_JOG_PER_SEC = 2; //in units (how much of stamina units is gained while jogging)
 	const int 	STAMINA_GAIN_WALK_PER_SEC = 4; //in units (how much of stamina units is gained while walking)
@@ -492,7 +492,7 @@ class GameConstants
 	const int	STAMINA_GAIN_LADDER_PER_SEC = 1; //in units (how much of stamina units is gained while slowly swim)
 	const float STAMINA_GAIN_BONUS_CAP = 3.0; //in units (tells how much extra units can be added at best to stamina regain)
 	
-	const float STAMINA_KG_TO_STAMINAPERCENT_PENALTY = 1.75; //in units (by how many  units is max stamina bar reduced for each 1 kg of load weight)
+	const float STAMINA_KG_TO_STAMINAPERCENT_PENALTY = -1; //in units (by how many  units is max stamina bar reduced for each 1 kg of load weight)
 	const float STAMINA_MIN_CAP = 5; //in units (overload won't reduce max stamina bar under this value)
 	const float STAMINA_HOLD_BREATH_THRESHOLD = 10; // in units
 	const float STAMINA_JUMP_THRESHOLD = 25; // in units
@@ -502,12 +502,12 @@ class GameConstants
 	
 	const float STAMINA_MELEE_HEAVY_THRESHOLD = STAMINA_DRAIN_MELEE_HEAVY; // in units (how many units we need to make a heavy hit in melee)
 	const float STAMINA_MELEE_EVADE_THRESHOLD = 8; // in units
-	const float STAMINA_REGEN_COOLDOWN_DEPLETION = 0.45; // in secs (how much time we will spend in cooldown before the stamina will starts with regeneration)
+	const float STAMINA_REGEN_COOLDOWN_DEPLETION = 0.1; // in secs (how much time we will spend in cooldown before the stamina will starts with regeneration)
 	const float STAMINA_REGEN_COOLDOWN_EXHAUSTION = 0.5;
 	const float STAMINA_WEIGHT_LIMIT_THRESHOLD = 6000; //! in grams (weight where the player is not penalized by stamina)
 	const float STAMINA_KG_TO_GRAMS = 1000; //for kg to g conversion
 	const float STAMINA_SYNC_RATE = 1; //in secs
-	const float STAMINA_MAX = 100;
+	const float STAMINA_MAX = 250;
 	/** @}*/
 	
 	/**
@@ -530,7 +530,7 @@ class GameConstants
 	const float ENVIRO_WATER_TEMPERATURE_COEF 			= 0.5;		//! how many time is water colder than air
 	const float ENVIRO_DEFAULT_ENTITY_HEAT 				= 0.5;		//! heat entity generates if not moving
 	const float ENVIRO_TEMPERATURE_HEIGHT_REDUCTION 	= 0.0065;	//! amount of ?C reduced for each 100 meteres of height above water level
-	const float ENVIRO_TEMPERATURE_INSIDE_COEF 			= 1.25;		//! increases temp in interiors
+	const float ENVIRO_TEMPERATURE_INSIDE_COEF 			= 2.50;		//! increases temp in interiors
 	const float ENVIRO_TEMPERATURE_UNDERROOF_COEF		= 1.1;
 	const float ENVIRO_WIND_EFFECT 						= 0.25;		//! amount of % wind affect drying/wetting
 	const float ENVIRO_HIGH_NOON 						= 12;		//! when is sun highest on sky
