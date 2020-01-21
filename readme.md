@@ -1,6 +1,7 @@
 # Roleplay.co.uk DayZ
 ###### Changelog 
 
+**24/01/2020**
 - Added V3S
 - Added truck batteries
 - Added all the revelant parts for the V3S
