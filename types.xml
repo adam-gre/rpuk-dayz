@@ -5232,7 +5232,7 @@
         <value name="Tier4"/>
     </type>
     <type name="GhillieAtt_Mossy">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5255,7 +5255,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieAtt_Woodland">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5267,7 +5267,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieBushrag_Mossy">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5290,7 +5290,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieBushrag_Woodland">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5302,7 +5302,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieHood_Mossy">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5325,7 +5325,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieHood_Woodland">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5337,7 +5337,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieSuit_Mossy">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5360,7 +5360,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieSuit_Woodland">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5372,7 +5372,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieTop_Mossy">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5395,7 +5395,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieTop_Woodland">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -16129,27 +16129,5 @@
         <category name="food"/>
         <usage name="Farm"/>
         <usage name="Hunting"/>
-    </type>
-    <type name="Spraycan_Green">
-        <nominal>35</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>20</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="equipment"/>
-    </type>
-    <type name="Spraycan_Black">
-        <nominal>35</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>20</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="equipment"/>
     </type>
 </types>
