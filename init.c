@@ -101,7 +101,7 @@ Mission CreateCustomMission(string path)
 	return new CustomMission();
     
     
-	}
+	
 
 ///////////// WORK IN PROGRESS ADMIN PANEL ///////////////
 
