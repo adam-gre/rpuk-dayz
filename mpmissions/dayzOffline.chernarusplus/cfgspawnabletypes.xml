@@ -1873,25 +1873,25 @@
 	</type>
 	<type name="AKM">
 		<attachments chance="0.60">
-			<item name="AK74_WoodBttstck" chance="0.30" />
+			<item name="AK74_WoodBttstck" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_FoldingBttstck" chance="0.30" />
+			<item name="AK_FoldingBttstck" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_PlasticBttstck" chance="0.30" />
+			<item name="AK_PlasticBttstck" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AKS74U_Bttstck" chance="0.30" />
+			<item name="AKS74U_Bttstck" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AKS74U_Bttstck" chance="0.30" />
+			<item name="AKS74U_Bttstck" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK74_Hndgrd" chance="0.30" />
+			<item name="AK74_Hndgrd" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_RailHndgrd" chance="0.30" />
+			<item name="AK_RailHndgrd" chance="0.15" />
 		</attachments>
 		<attachments chance="0.60">
 			<item name="AK_PlasticHndgrd" chance="0.30" />
