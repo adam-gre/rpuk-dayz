@@ -15,15 +15,15 @@
 - Fixed zombies being able to hit you through doors **@Roberts**
 - Each day in game changes the day on the server from January to December **@Roberts**
 - Increased range of radios in game  **@Roberts**
-- The further up from sea level you are, the colder it is @Roberts
-- Decreased the amount of food you use in different states @Roberts
-- Increased the amount of water you use in different states @Roberts
-- Added the AK-101 black variant @Roberts
-- Added the AK-101 green variant @Roberts
-- Added the AK-74 black variant @Roberts
-- Added the AK-74 green variant @Roberts
-- Added opened cans of food @Roberts
-- Decreased the chance of AK's spawning with attachments @Roberts
+- The further up from sea level you are, the colder it is **@Roberts**
+- Decreased the amount of food you use in different states **@Roberts**
+- Increased the amount of water you use in different states **@Roberts**
+- Added the AK-101 black variant **@Roberts**
+- Added the AK-101 green variant **@Roberts**
+- Added the AK-74 black variant **@Roberts**
+- Added the AK-74 green variant **@Roberts**
+- Added opened cans of food **@Roberts**
+- Decreased the chance of AK's spawning with attachments **@Roberts**
 
 
 
