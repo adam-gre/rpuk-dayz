@@ -1,0 +1,194 @@
+///@{ guards
+
+/**@class	HandGuardBase
+ * @brief	represents guard on a transition from state to state
+ **/
+class HandGuardBase
+{
+	/**@fn			GuardCondition
+	 * @brief		enable or disable transition based on condition
+	 * the guard is a boolean operation executed first and which can prevent the transition from firing by returning false
+	 * @return		true if transition is allowed
+	 **/
+	bool GuardCondition (HandEventBase e) { return true; }
+};
+
+
+class HandGuardAnd extends HandGuardBase
+{
+	ref HandGuardBase m_arg0;
+	ref HandGuardBase m_arg1;
+
+	void HandGuardAnd (HandGuardBase arg0 = NULL, HandGuardBase arg1 = NULL) { m_arg0 = arg0; m_arg1 = arg1; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		bool result = m_arg0.GuardCondition(e) && m_arg1.GuardCondition(e);
+		hndDebugPrint("[hndfsm] HandGuardAnd guard - " + m_arg0.Type() + " && " + m_arg1.Type() + " = " + result);
+		return result;
+	}
+};
+
+class HandGuardNot extends HandGuardBase
+{
+	ref HandGuardBase m_arg0;
+
+	void HandGuardNot (HandGuardBase arg0 = NULL) { m_arg0 = arg0; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		bool result = !m_arg0.GuardCondition(e);
+		hndDebugPrint("[hndfsm] HandGuardNot guard - ! " + m_arg0.Type() + " = " + result);
+		return result;
+	}
+};
+
+class HandGuardOr extends HandGuardBase
+{
+	ref HandGuardBase m_arg0;
+	ref HandGuardBase m_arg1;
+
+	void HandGuardOr (HandGuardBase arg0 = NULL, HandGuardBase arg1 = NULL) { m_arg0 = arg0; m_arg1 = arg1; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		bool result = m_arg0.GuardCondition(e) || m_arg1.GuardCondition(e);
+		hndDebugPrint("[hndfsm] HandGuardOr guard - " + m_arg0.Type() + " || " + m_arg1.Type() + " = " + result);
+		return result;
+	}
+};
+
+class HandGuardHasItemInEvent extends HandGuardBase
+{
+	protected Man m_Player;
+	void HandGuardHasItemInEvent (Man p = NULL) { m_Player = p; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		EntityAI eai = e.GetSrcEntity();
+		if (eai != NULL /* && CanTakeInHands*/)
+		{
+			hndDebugPrint("[hndfsm] HandGuardHasItemInEvent guard - has valid entity in event");
+			return true;
+		}
+		hndDebugPrint("[hndfsm] HandGuardHasItemInEvent guard - no entity in event");
+		return false;
+	}
+};
+
+class HandGuardHasWeaponInEvent extends HandGuardHasItemInEvent
+{
+	void HandGuardHasWeapoonInEvent (Man p = NULL) { }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		EntityAI eai = e.GetSrcEntity();
+		if (eai != NULL)
+		{
+			if (eai.IsWeapon())
+			{
+				hndDebugPrint("[hndfsm] HandGuardHasWeaponInEvent guard - has valid weapon in event");
+				return true;
+			}
+			else
+			{
+				hndDebugPrint("[hndfsm] HandGuardHasWeaponInEvent guard - entity, but not weapon in event");
+				return false;
+			}
+		}
+		hndDebugPrint("[hndfsm] HandGuardHasWeaponInEvent guard - no entity in event");
+		return false;
+	}
+};
+
+class HandGuardIsSameItemInHands extends HandGuardBase
+{
+	protected Man m_Player;
+	void HandGuardIsSameItemInHands (Man p = NULL) { m_Player = p; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		if (e.GetSrcEntity() == m_Player.GetHumanInventory().GetEntityInHands())
+		{
+			hndDebugPrint("[hndfsm] HandGuardIsSameItemInHands guard - has same entity in hands");
+			return true;
+		}
+
+		hndDebugPrint("[hndfsm] HandGuardIsSameItemInHands guard - different entity in hands");
+		return false;
+	}
+};
+
+class HandGuardHasDestroyedItemInHands extends HandGuardBase
+{
+	protected Man m_Player;
+	void HandGuardHasDestroyedItemInHands (Man p = NULL) { m_Player = p; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		hndDebugSpam("[hndfsm] HandGuardHasDestroyedItemInHands guard - has same entity in hands ev=" + e.GetSrcEntity() + " hnd=" + m_Player.GetHumanInventory().GetEntityInHands());
+		EntityAI hnd = m_Player.GetHumanInventory().GetEntityInHands();
+		if (e.GetSrcEntity())
+		{
+			if (e.GetSrcEntity() == hnd)
+			{
+				hndDebugPrint("[hndfsm] HandGuardHasDestroyedItemInHands guard - has same entity in hands");
+				return true;
+			}
+
+			if (hnd == null)
+			{
+				hndDebugPrint("[hndfsm] HandGuardHasDestroyedItemInHands guard - hands already empty");
+				return true;
+			}
+		}
+		else
+		{
+			hndDebugPrint("[hndfsm] HandGuardHasDestroyedItemInHands guard - hands already empty and item destroyed");
+			return true;
+		}
+
+		hndDebugPrint("[hndfsm] HandGuardHasDestroyedItemInHands guard - destroyed entity not in hands");
+		return false;
+	}
+};
+
+class HandGuardHasItemInHands extends HandGuardBase
+{
+	protected Man m_Player;
+	void HandGuardHasItemInHands (Man p = NULL) { m_Player = p; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		if (m_Player.GetHumanInventory().GetEntityInHands())
+		{
+			hndDebugPrint("[hndfsm] HandGuardHasItemInHands guard - has valid entity in hands");
+			return true;
+		}
+
+		hndDebugPrint("[hndfsm] HandGuardHasItemInHands guard - no entity in hands");
+		return false;
+	}
+};
+
+class HandGuardHasRoomForItem extends HandGuardBase
+{
+	protected Man m_Player;
+	void HandGuardHasRoomForItem (Man p = NULL) { m_Player = p; }
+
+	override bool GuardCondition (HandEventBase e)
+	{
+		if (e.GetDst())
+		{
+			if (!GameInventory.LocationTestAddEntity(e.GetDst(), false, true, true, true, true))
+				Error("[hndfsm] HandGuardHasRoomForItem - no room at dst=" + InventoryLocation.DumpToStringNullSafe(e.GetDst()));
+			return true;
+		}
+
+		hndDebugPrint("[hndfsm] HandGuardHasRoomForItem guard - e.m_Dst is null");
+		return false;
+	}
+};
+
+///@} guards
+
