@@ -37,6 +37,8 @@
 - Added metal flooring **@Roberts**
 - Added weapon racks **@Roberts**
 - Added M24 **@Meeloo**
+- Added the leenfield **@Meeloo**
+- Added the desert eagle (rare) **@Roberts**
 
 
 
