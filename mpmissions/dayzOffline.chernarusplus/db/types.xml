@@ -26,7 +26,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AK101_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -37,7 +37,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK101_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -63,7 +63,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AK74_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -74,7 +74,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK74_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1524,7 +1524,7 @@
         <value name="Tier3"/>
     </type>
     <type name="BakedBeansCan_Opened">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
