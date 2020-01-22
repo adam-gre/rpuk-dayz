@@ -1732,6 +1732,50 @@
 	</type>
 	<!--END OF ZOMBIES  -->
 	<!--  WEAPONS  -->
+    <type name="gp_P1">
+        <attachments chance="0.30">
+            <item name="Mag_p1_8Rnd" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="gp_DE">
+        <attachments chance="0.30">
+            <item name="Mag_DE_9Rnd" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="gp_AugSteyr">
+        <attachments chance="0.35">
+            <item name="Mag_Stanag_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="gp_Longhorn">
+        <attachments chance="0.10">
+            <item name="PistolOptic" chance="1.00" />
+        </attachments>
+	</type>
+	<type name="gp_Ruger1022">
+        <attachments chance="0.10">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+		<attachments chance="0.60">
+            <item name="mag_ruger1022_10Rnd" chance="1.00" />
+        </attachments>
+	</type>
+	<type name="gp_M249">
+        <attachments chance="0.10">
+            <item name="AcogOptic" chance="1.00" />
+        </attachments>
+		<attachments chance="0.30">
+            <item name="Mag_M249_Box200Rnd" chance="1.00" />
+        </attachments>
+	</type>
+	<type name="gp_ScoutNew">
+        <attachments chance="0.10">
+            <item name="AcogOptic" chance="1.00" />
+        </attachments>
+		<attachments chance="0.40">
+            <item name="Mag_Scout_5Rnd" chance="1.00" />
+        </attachments>
+	</type>
 	<type name="MakarovIJ70">
 		<attachments chance="0.20">
 			<item name="Mag_IJ70_8Rnd" chance="1.00" />
@@ -1788,7 +1832,7 @@
 		</attachments>
 	</type>
 	<type name="MP5K">
-		<attachments chance="0.07">
+		<attachments chance="0.05">
 			<item name="MP5_RailHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -1797,7 +1841,7 @@
 		<attachments chance="1.00">
 			<item name="MP5k_StockBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="0.35">
+		<attachments chance="0.30">
 			<item name="Mag_MP5_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1873,25 +1917,25 @@
 	</type>
 	<type name="AKM">
 		<attachments chance="0.60">
-			<item name="AK74_WoodBttstck" chance="0.15" />
+			<item name="AK74_WoodBttstck" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_FoldingBttstck" chance="0.15" />
+			<item name="AK_FoldingBttstck" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_PlasticBttstck" chance="0.15" />
+			<item name="AK_PlasticBttstck" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AKS74U_Bttstck" chance="0.15" />
+			<item name="AKS74U_Bttstck" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AKS74U_Bttstck" chance="0.15" />
+			<item name="AKS74U_Bttstck" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK74_Hndgrd" chance="0.15" />
+			<item name="AK74_Hndgrd" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_RailHndgrd" chance="0.15" />
+			<item name="AK_RailHndgrd" chance="0.30" />
 		</attachments>
 		<attachments chance="0.60">
 			<item name="AK_PlasticHndgrd" chance="0.30" />
@@ -1995,13 +2039,13 @@
 	</type>
 	<type name="M4A1">
 		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="0.45" />
+			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_PlasticHndgrd" chance="0.25" />
+			<item name="M4_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_CarryHandleOptic" chance="0.19" />
+			<item name="M4_CarryHandleOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
@@ -2012,7 +2056,7 @@
 			<item name="Fal_FoldingBttstck" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Fal_OeBttstck" chance="0.55" />
+			<item name="Fal_OeBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
 			<item name="BUISOptic" chance="0.20" />
@@ -3397,7 +3441,7 @@
 			<item name="Sedan_02_Trunk_Grey" chance="0.20" />
 		</attachments>
 	</type>
-
+<!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.60" />
@@ -3542,5 +3586,5 @@
 			<item name="V3SDoors_CoDriver_Grey" chance="0.50" />
 		</attachments>
 	</type>
-
+-->
 </spawnabletypes>
