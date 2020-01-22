@@ -25,7 +25,20 @@
 - Added opened cans of food **@Roberts**
 - Decreased the chance of AK's spawning with attachments **@Roberts**
 - Added Mods: Base Furniture Mods 2.0, BuildAnywhere, BuilderItems, CF, Community Online Tools, Ear Plugs, Trader, Unlimited Stamina, ZomBerry Admin Tools, Weapon Redux, DayZ Plus **@Meeloo**
-
+- Added GP Pistol **@Roberts**
+- Added the Ruger 1022 **@Roberts**
+- Added the trumpet **@Roberts**
+- Added the M249 LMG **@Meeloo**
+- Added the Augsteyr **@Roberts**
+- Added ladders small, medium, large **@Roberts**
+- Added base flooring **@Roberts**
+- Added base boards **@Roberts**
+- Added metal walls **@Roberts**
+- Added metal flooring **@Roberts**
+- Added weapon racks **@Roberts**
+- Added M24 **@Meeloo**
+- Added the leenfield **@Meeloo**
+- Added the desert eagle (rare) **@Roberts**
 
 
 

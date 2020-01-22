@@ -16152,7 +16152,7 @@
 		<usage name="Hunting"/>
     </type>
     <type name="leeenfield">
-        <nominal>50</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -16206,7 +16206,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="G36">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>20</min>
@@ -16218,7 +16218,7 @@
         <usage name="Military"/>
     </type>
 	<type name="mag_G36_30rnd">
-        <nominal>60</nominal>
+        <nominal>35</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>35</min>
@@ -16230,7 +16230,7 @@
         <usage name="Military"/>
     </type>
 		<type name="Glock18">
-        <nominal>65</nominal>
+        <nominal>50</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>38</min>
@@ -16281,7 +16281,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="mag_g18_15rnd">
-        <nominal>70</nominal>
+        <nominal>45</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>40</min>
@@ -16298,7 +16298,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mac10">
-        <nominal>45</nominal>
+        <nominal>40</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>20</min>
@@ -16332,7 +16332,7 @@
         <value name="Tier4"/>
     </type>
     <type name="board_base">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16346,7 +16346,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="KuroAkita_LadderLarge">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16360,7 +16360,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SheetMetalBoard_Base">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16374,7 +16374,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="KuroAkita_LadderSmallPacked">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16388,7 +16388,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="KuroAkita_LadderMediumPacked">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16402,7 +16402,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="KuroAkita_LadderSmall">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16416,7 +16416,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="KuroAkita_LadderMedium">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16430,7 +16430,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="KuroAkita_LadderLargePacked">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16444,7 +16444,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="gunrack">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -16560,7 +16560,7 @@
         <usage name="Industrial"/>
     </type>
  	<type name="PistolOptic">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -16573,7 +16573,7 @@
 		<usage name="Hunting"/>
     </type>
 	<type name="gp_P1">
-        <nominal>0</nominal>
+        <nominal>35</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16588,7 +16588,7 @@
         <value name="Tier2"/>
     </type>
 	<type name="gp_DE">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16603,7 +16603,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="gp_AugSteyr">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16618,7 +16618,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="gp_ScoutNew">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16633,7 +16633,7 @@
         <value name="Tier4"/>
     </type>
     <type name="gp_LongHorn">
-        <nominal>0</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16649,7 +16649,7 @@
         <value name="Tier2"/>
     </type>
 	<type name="gp_Ruger1022">
-        <nominal>0</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16663,7 +16663,7 @@
         <usage name="Hunting"/>
     </type>
 	<type name="gp_Trumpet">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <min>125</min>
@@ -16679,7 +16679,7 @@
         <value name="Tier2"/>
     </type>
 	<type name="gp_M249">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -16693,7 +16693,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="Mag_DE_9Rnd">
-        <nominal>0</nominal>
+        <nominal>25</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -16705,7 +16705,7 @@
         <usage name="Military"/>
     </type>
 	<type name="Mag_P1_8Rnd">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16719,7 +16719,7 @@
         <usage name="Village"/>
     </type>
 	<type name="Mag_Ruger1022_10Rnd">
-        <nominal>0</nominal>
+        <nominal>35</nominal>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16733,7 +16733,7 @@
         <usage name="Village"/>
     </type>
 	<type name="Mag_Ruger1022_30Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16747,7 +16747,7 @@
         <usage name="Village"/>
     </type>
 	<type name="Mag_M249_Box200Rnd">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -16759,7 +16759,7 @@
         <usage name="Military"/>
     </type>
 	<type name="Mag_Scout_5Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -16775,7 +16775,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="AmmoBox_357_20Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <min>0</min>
@@ -16790,7 +16790,7 @@
 		<usage name="Military"/>
     </type>
 	<type name="Ammo_357">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <min>0</min>
