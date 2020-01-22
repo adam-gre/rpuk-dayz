@@ -26,7 +26,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AK101_Black">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -37,7 +37,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK101_Green">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -63,7 +63,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AK74_Black">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -74,7 +74,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK74_Green">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -298,10 +298,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_Suppressor">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -322,10 +322,10 @@
         <usage name="Military"/>
     </type>
     <type name="AK_WoodBttstck_Black">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -356,10 +356,10 @@
         <usage name="Military"/>
     </type>
     <type name="AK_WoodHndgrd_Black">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1507,10 +1507,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="BakedBeansCan">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>18</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1524,7 +1524,7 @@
         <value name="Tier3"/>
     </type>
     <type name="BakedBeansCan_Opened">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1695,28 +1695,26 @@
         <usage name="Village"/>
     </type>
     <type name="BallisticHelmet_Black">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
-        <restock>1800</restock>
-        <min>4</min>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Green">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
-        <restock>1800</restock>
-        <min>4</min>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
     </type>
     <type name="BallisticHelmet_UN">
         <nominal>10</nominal>
@@ -1731,10 +1729,10 @@
         <usage name="Military"/>
     </type>
     <type name="Bandage">
-        <nominal>30</nominal>
+        <nominal>35</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1744,7 +1742,7 @@
         <usage name="Medic"/>
     </type>
     <type name="BandageDressing">
-        <nominal>35</nominal>
+        <nominal>40</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -3104,10 +3102,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -3267,10 +3265,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="CarTent">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3367,7 +3365,7 @@
         <usage name="Village"/>
     </type>
     <type name="CharcoalTablets">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -4348,10 +4346,10 @@
         <category name="food"/>
     </type>
     <type name="Defibrillator">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4677,10 +4675,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="DuctTape">
-        <nominal>120</nominal>
+        <nominal>80</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>100</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4848,10 +4846,10 @@
         <category name="tools"/>
     </type>
     <type name="FirefighterAxe">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4998,10 +4996,10 @@
         <category name="clothes"/>
     </type>
     <type name="FirstAidKit">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5181,10 +5179,10 @@
         <category name="containers"/>
     </type>
     <type name="GP5GasMask">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5194,10 +5192,10 @@
         <usage name="Police"/>
     </type>
     <type name="GardenLime">
-        <nominal>70</nominal>
+        <nominal>50</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5217,10 +5215,10 @@
         <category name="tools"/>
     </type>
     <type name="GasMask">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5232,7 +5230,7 @@
         <value name="Tier4"/>
     </type>
     <type name="GhillieAtt_Mossy">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5255,7 +5253,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieAtt_Woodland">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5267,7 +5265,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieBushrag_Mossy">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5290,7 +5288,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieBushrag_Woodland">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5302,7 +5300,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieHood_Mossy">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5325,7 +5323,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieHood_Woodland">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5337,7 +5335,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieSuit_Mossy">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5360,7 +5358,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieSuit_Woodland">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5372,7 +5370,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieTop_Mossy">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -5395,7 +5393,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieTop_Woodland">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -6326,10 +6324,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchet">
-        <nominal>90</nominal>
+        <nominal>80</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>70</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7042,10 +7040,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Jeans_Black">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>0</nominal>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7059,10 +7057,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Jeans_Blue">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>0</nominal>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7076,10 +7074,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Jeans_BlueDark">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>0</nominal>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7093,10 +7091,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Jeans_Brown">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>0</nominal>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7110,10 +7108,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Jeans_Green">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>0</nominal>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7127,10 +7125,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Jeans_Grey">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>0</nominal>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7459,10 +7457,10 @@
         <category name="food"/>
     </type>
     <type name="LandMineTrap">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7572,7 +7570,7 @@
         <category name="tools"/>
     </type>
     <type name="LeatherGloves_Black">
-        <nominal>14</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -8002,7 +8000,7 @@
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8013,9 +8011,9 @@
         <value name="Tier4"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>2100</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -8024,18 +8022,15 @@
         <category name="weapons"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>3</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>3</min>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M4_CQBBttstck">
         <nominal>5</nominal>
@@ -8144,10 +8139,10 @@
         <category name="weapons"/>
     </type>
     <type name="M4_Suppressor">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8230,10 +8225,10 @@
         <value name="Tier4"/>
     </type>
     <type name="M67Grenade">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8555,10 +8550,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_FAL_20Rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>10</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
@@ -8683,10 +8678,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_5Rnd">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>7</min>
+        <min>2</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -8697,10 +8692,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_8Rnd">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -9012,10 +9007,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="MediumTent">
-        <nominal>25</nominal>
+        <nominal>30</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9946,10 +9941,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="PainkillerTablets">
-        <nominal>18</nominal>
+        <nominal>20</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10042,10 +10037,10 @@
         <usage name="Medic"/>
     </type>
     <type name="PeachesCan">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>18</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10392,7 +10387,7 @@
         <nominal>70</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10686,10 +10681,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="PurificationTablets">
-        <nominal>80</nominal>
+        <nominal>50</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
-        <min>50</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11236,10 +11231,10 @@
         <usage name="Military"/>
     </type>
     <type name="SalineBag">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11303,10 +11298,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SardinesCan">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12314,10 +12309,10 @@
         <usage name="School"/>
     </type>
     <type name="SodaCan_Cola">
-        <nominal>50</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12328,10 +12323,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Kvass">
-        <nominal>40</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12342,10 +12337,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Pipsi">
-        <nominal>50</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12356,10 +12351,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Spite">
-        <nominal>40</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>300</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12370,10 +12365,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SpaghettiCan">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>18</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12512,10 +12507,10 @@
         <usage name="Military"/>
     </type>
     <type name="StartKitIV">
-        <nominal>50</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12877,10 +12872,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalBaconCan">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13093,10 +13088,10 @@
         <usage name="Village"/>
     </type>
     <type name="TetracyclineAntibiotics">
-        <nominal>35</nominal>
+        <nominal>20</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13106,10 +13101,10 @@
         <usage name="Medic"/>
     </type>
     <type name="Thermometer">
-        <nominal>20</nominal>
+        <nominal>40</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13360,10 +13355,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Tripod">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13374,10 +13369,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="TruckBattery">
-        <nominal>40</nominal>
+        <nominal>60</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13386,10 +13381,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="TunaCan">
-        <nominal>35</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13595,7 +13590,7 @@
         <value name="Tier4"/>
     </type>
     <type name="V3SDoors_CoDriver">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13608,7 +13603,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="V3SDoors_Driver">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13621,7 +13616,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="V3SHood">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13634,7 +13629,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="V3SWheel">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13647,7 +13642,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="V3SWheelDouble">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13660,7 +13655,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="V3SWheelDouble_Ruined">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13671,7 +13666,7 @@
         <category name="tools"/>
     </type>
     <type name="V3SWheel_Ruined">
-        <nominal>14</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13682,7 +13677,7 @@
         <category name="tools"/>
     </type>
     <type name="V3S_Cargo">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -13722,7 +13717,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="V3S_Chassis">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -14106,10 +14101,10 @@
         <usage name="Town"/>
     </type>
     <type name="WoodAxe">
-        <nominal>80</nominal>
+        <nominal>70</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16130,4 +16125,682 @@
         <usage name="Farm"/>
         <usage name="Hunting"/>
     </type>
+	<type name="HuntingOptic">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="LongrangeOptic">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<usage name="Hunting"/>
+    </type>
+    <type name="leeenfield">
+        <nominal>50</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>1
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="m14">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="mag_m14_20rnd">
+        <nominal>55</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>40</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="G36">
+        <nominal>40</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+	<type name="mag_G36_30rnd">
+        <nominal>60</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>35</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+		<type name="Glock18">
+        <nominal>65</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>38</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+		<value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="m24">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+		<value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="mag_g18_30rnd">
+        <nominal>30</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>30</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+		<value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="mag_g18_15rnd">
+        <nominal>70</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>40</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+	<value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="Mac10">
+        <nominal>45</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+		<value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="mag_mac10_30rnd">
+        <nominal>65</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>35</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+		<value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="board_base">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="KuroAkita_LadderLarge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="SheetMetalBoard_Base">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="KuroAkita_LadderSmallPacked">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="KuroAkita_LadderMediumPacked">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="KuroAkita_LadderSmall">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="KuroAkita_LadderMedium">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="KuroAkita_LadderLargePacked">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="gunrack">
+        <nominal>40</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="crate">
+        <nominal>20</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="kuroakita_blowtorch">
+        <nominal>80</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="kuroakita_acetylene">
+        <nominal>130</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ammo_303">
+        <nominal>100</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>80</min>
+        <quantmin>1</quantmin>
+        <quantmax>20</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Police"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+	    <type name="AmmoBox_303_20Rnd">
+        <nominal>130</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+    </type>
+	    <type name="AmmoBox_308_20Rnd">
+        <nominal>130</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+         <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+    </type>
+	    <type name="Ammo_308Win">
+        <nominal>130</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>1</quantmin>
+        <quantmax>20</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+		<usage name="Village"/>
+        <usage name="Industrial"/>
+    </type>
+ 	<type name="PistolOptic">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="gp_P1">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+	<type name="gp_DE">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="gp_AugSteyr">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="gp_ScoutNew">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+		<usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="gp_LongHorn">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+	<type name="gp_Ruger1022">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="gp_Trumpet">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>800</restock>
+        <min>125</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+	<type name="gp_M249">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Mag_DE_9Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>60</quantmin>
+        <quantmax>90</quantmax>
+        <cost>0</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Mag_P1_8Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>40</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Mag_Ruger1022_10Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>40</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Mag_Ruger1022_30Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>40</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Mag_M249_Box200Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>15</quantmin>
+        <quantmax>200</quantmax>
+        <cost>0</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Mag_Scout_5Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>0</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+		<usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="AmmoBox_357_20Rnd">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Military"/>
+    </type>
+	<type name="Ammo_357">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>800</restock>
+        <min>0</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="Police"/>
+    </type>	
 </types>

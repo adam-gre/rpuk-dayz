@@ -1,0 +1,192 @@
+---------------------------------------------
+ZomBerry v0.5.9-prep log started at 22.01.2020 15:30:15
+
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+22.01.2020 15:30:15 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+22.01.2020 15:30:15 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+22.01.2020 15:30:15 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+22.01.2020 15:30:15 [ZomBerryConfig]: admins.cfg loaded
+22.01.2020 15:30:15 [ZomBerryConfig]: Added admin: fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=
+22.01.2020 15:30:15 [ZomBerryConfig]: Added admin: 76561198117639423
+22.01.2020 15:31:18 [ZomBerryDbg]: Auth respond to admin Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=)
+22.01.2020 15:31:43 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:31:43 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:31:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed GodTarget
+22.01.2020 15:31:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed GodTarget
+22.01.2020 15:31:55 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed GodTarget
+22.01.2020 15:31:58 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:32:16 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed RejectBellyTarget
+22.01.2020 15:32:16 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed RejectBellyTarget
+22.01.2020 15:32:28 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SetBloodTarget
+22.01.2020 15:32:34 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SetBloodTarget
+22.01.2020 15:32:36 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SetBloodTarget
+22.01.2020 15:32:57 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <7124.249023, 271.635559, 5974.728516>
+22.01.2020 15:33:09 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed TimeDay
+22.01.2020 15:33:18 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:33:18 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:33:21 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:34:38 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:34:38 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:34:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:34:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:34:58 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:35:10 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:35:10 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:35:12 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:35:37 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:35:37 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:35:42 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed TPCur
+22.01.2020 15:35:53 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:35:53 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:36:00 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned Ammo_GrenadeM4 at <6752.752441, 338.545166, 5734.123535>
+22.01.2020 15:36:00 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned Ammo_GrenadeM4 at <6752.781250, 338.576630, 5734.113770>
+22.01.2020 15:36:00 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned Ammo_GrenadeM4 at <6752.781250, 338.576630, 5734.113770>
+22.01.2020 15:36:10 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:36:10 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:37:02 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed BiteTarget
+22.01.2020 15:37:08 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SetHealthTarget
+22.01.2020 15:37:19 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed HealTarget
+22.01.2020 15:37:33 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:37:33 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:37:46 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned Pot at <6753.129883, 338.462616, 5734.551758>
+22.01.2020 15:37:52 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:37:52 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:38:17 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned P1 at <6753.563965, 338.273926, 5736.387695>
+22.01.2020 15:38:25 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:38:25 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:38:34 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed PsycoTarget
+22.01.2020 15:38:38 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:45 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed PsycoTarget
+22.01.2020 15:38:49 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:51 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:52 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:52 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:52 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:54 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:54 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:38:54 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:39:12 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned Groza at <6752.177246, 338.785217, 5731.885742>
+22.01.2020 15:39:18 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned M249 at <6752.221191, 338.833801, 5731.932617>
+22.01.2020 15:39:55 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:39:55 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:39:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:39:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:39:59 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:42:03 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:42:03 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:42:05 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:42:12 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:42:12 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:42:13 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:42:13 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:42:18 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3728.554443, 401.933563, 5946.868164>
+22.01.2020 15:42:20 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3697.520020, 402.000000, 5946.868164>
+22.01.2020 15:42:23 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3697.520020, 402.000000, 5946.868164>
+22.01.2020 15:42:24 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3728.554443, 402.001495, 5962.384766>
+22.01.2020 15:42:25 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3728.554443, 402.001495, 5962.384766>
+22.01.2020 15:42:26 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3728.554443, 402.001495, 5962.384766>
+22.01.2020 15:42:26 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3728.554443, 402.001495, 5962.384766>
+22.01.2020 15:42:27 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <3728.554443, 402.001495, 5962.384766>
+22.01.2020 15:42:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:42:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:43:08 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed TPCur
+22.01.2020 15:43:10 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:49:07 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:49:07 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:49:09 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:49:24 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:49:24 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:49:28 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:53:04 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:53:04 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:53:06 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:53:31 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:53:31 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:53:33 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed TPCur
+22.01.2020 15:53:37 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:53:37 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:53:39 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:54:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:54:56 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:54:59 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed GodTarget
+22.01.2020 15:55:13 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed PsycoTarget
+22.01.2020 15:55:16 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed SneezeTarget
+22.01.2020 15:55:19 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed GodTarget
+22.01.2020 15:55:20 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed GodTarget
+22.01.2020 15:55:25 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:55:25 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:55:28 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 15:55:41 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:55:41 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:55:46 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed TPCur
+22.01.2020 15:55:49 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:55:49 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:55:54 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 15:55:54 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 15:55:55 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed FreeCamAdm
+22.01.2020 16:05:51 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:05:51 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:05:56 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed HealTarget
+22.01.2020 16:06:01 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed KillTarget
+22.01.2020 16:07:23 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:07:23 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:07:26 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed TimeDay
+22.01.2020 16:07:59 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) teleported to position <8353.865234, 291.989990, 5989.401855>
+22.01.2020 16:12:33 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:12:33 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:12:49 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned OffroadHatchback at <8366.208984, 291.993622, 5982.277832>
+22.01.2020 16:13:10 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:13:10 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:13:26 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:13:26 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:13:40 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned OffroadHatchback at <8364.604492, 292.004486, 5987.717285>
+22.01.2020 16:14:03 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:14:03 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:16:27 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:32 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:32 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:35 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:35 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:36 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:47 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:48 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:51 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:51 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:51 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:52 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:53 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:16:54 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:17:01 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:17:01 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed DeleteObj
+22.01.2020 16:17:11 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:17:11 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
+22.01.2020 16:17:25 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) spawned OffroadHatchback_White at <8363.406250, 291.991852, 5983.634277>
+22.01.2020 16:17:30 [ZomBerryAdmin]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) executed RefuelAndRepair
+22.01.2020 16:18:02 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - player list sync
+22.01.2020 16:18:02 [ZomBerryDbg]: Meeloo (fMO1JIvZqIwxddTWwPxb9Mg95_X4j6UAr1FYyyZSMZs=) - function list sync
