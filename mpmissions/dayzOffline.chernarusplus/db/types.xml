@@ -16152,7 +16152,7 @@
 		<usage name="Hunting"/>
     </type>
     <type name="leeenfield">
-        <nominal>50</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -16588,7 +16588,7 @@
         <value name="Tier2"/>
     </type>
 	<type name="gp_DE">
-        <nominal>20</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
