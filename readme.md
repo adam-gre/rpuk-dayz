@@ -24,6 +24,7 @@
 - Added the AK-74 green variant **@Roberts**
 - Added opened cans of food **@Roberts**
 - Decreased the chance of AK's spawning with attachments **@Roberts**
+- Added Mods: Base Furniture Mods 2.0, BuildAnywhere, BuilderItems, CF, Community Online Tools, Ear Plugs, Trader, Unlimited Stamina, ZomBerry Admin Tools, Weapon Redux, DayZ Plus **@Meeloo**
 
 
 
