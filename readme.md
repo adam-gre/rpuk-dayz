@@ -40,6 +40,7 @@
 - Added the leenfield **@Meeloo**
 - Added the desert eagle (rare) **@Roberts**
 - Added RPUK Hoodies **@Bob Wilkinson**
+- Optimized server performance **@Roberts**
 
 
 
