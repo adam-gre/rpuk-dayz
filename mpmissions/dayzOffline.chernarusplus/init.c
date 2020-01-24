@@ -5,7 +5,7 @@ void main()
 
 	weather.MissionWeather(false);    // false = use weather controller from Weather.c
 
-	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.2, 0.3), 1, 0);
+	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
 	weather.GetRain().Set( 0, 0, 1);
 	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
 
@@ -110,16 +110,8 @@ class CustomMission: MissionServer
 		}
 
 	}
-};
-
-Mission CreateCustomMission(string path)
-{
-	return new CustomMission();
-    
-    
 	
-
-///////////// WORK IN PROGRESS ADMIN PANEL ///////////////
+	///////////// WORK IN PROGRESS ADMIN PANEL ///////////////
 
 
     bool freecam_active = false;
@@ -591,8 +583,9 @@ Mission CreateCustomMission(string path)
 		}
 	}
 
-*/
+};
 
+Mission CreateCustomMission(string path)
+{
+	return new CustomMission();
 }
-
-
