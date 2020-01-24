@@ -5,7 +5,7 @@ void main()
 
 	weather.MissionWeather(false);    // false = use weather controller from Weather.c
 
-	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.2, 0.3), 1, 0);
+	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
 	weather.GetRain().Set( 0, 0, 1);
 	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
 
@@ -63,6 +63,21 @@ class CustomMission: MissionServer
 
 	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
 	{
+		player.RemoveAllItems();
+
+		int rndHoodie = Math.RandomInt(0, 2);
+		if ( rndHoodie == 0 )
+		{
+			player.GetInventory().CreateInInventory("Hoodie_RPUK_Red");
+		}
+		else
+		{
+			player.GetInventory().CreateInInventory("Hoodie_RPUK_Black");
+		}
+		
+		player.GetInventory().CreateInInventory("Jeans_Blue");
+		player.GetInventory().CreateInInventory("AthleticShoes_Black");
+		
 		EntityAI itemTop;
 		EntityAI itemEnt;
 		ItemBase itemBs;
@@ -93,20 +108,14 @@ class CustomMission: MissionServer
 
 			SetRandomHealth(itemEnt);
 		}
+
 	}
-};
-
-Mission CreateCustomMission(string path)
-{
-	return new CustomMission();
-    
-    
 	
+	///////////// WORK IN PROGRESS ADMIN PANEL ///////////////
 
-///////////// WORK IN PROGRESS ADMIN PANEL ///////////////
 
-
-/* bool freecam_active = false;
+/* 
+	bool freecam_active = false;
 	bool verify_admins = false; // true=verify presence of BI UID in admin list
 	string cmd_prefix = "/"; // Must be special character
 	ref TStringArray admins = {76561198206695552,}; // Add your BI UID or SteamID
@@ -574,9 +583,11 @@ Mission CreateCustomMission(string path)
 			}
 		}
 	}
+	*/
 
-*/
+};
 
+Mission CreateCustomMission(string path)
+{
+	return new CustomMission();
 }
-
-
