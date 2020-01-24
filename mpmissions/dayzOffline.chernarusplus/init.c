@@ -113,7 +113,7 @@ class CustomMission: MissionServer
 	
 	///////////// WORK IN PROGRESS ADMIN PANEL ///////////////
 
-	{     bool freecam_active = false;
+ /*	{     bool freecam_active = false;
 	bool verify_admins = false; // true=verify presence of BI UID in admin list
 	string cmd_prefix = "/"; // Must be special character
 	ref TStringArray admins = {76561198183828141}; // Add your BI UID or SteamID
@@ -464,7 +464,7 @@ class CustomMission: MissionServer
 			}
 			///////////////////// */
 
-			case "kill": {
+		/*	case "kill": {
 				if(count == 2) {
 					temp_player = GetPlayer(tokens[1]);
 					if(temp_player == NULL) {
