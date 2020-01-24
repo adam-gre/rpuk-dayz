@@ -24,7 +24,7 @@
 - Added the AK-74 green variant **@Roberts**
 - Added opened cans of food **@Roberts**
 - Decreased the chance of AK's spawning with attachments **@Roberts**
-- Added Mods: Base Furniture Mods 2.0, BuildAnywhere, BuilderItems, CF, Community Online Tools, Ear Plugs, Trader, Unlimited Stamina, ZomBerry Admin Tools, Weapon Redux, DayZ Plus **@Meeloo**
+- Added Mods: Base Furniture Mods 2.0, BuildAnywhere, BuilderItems, CF, Community Online Tools, Ear Plugs, Trader, Unlimited Stamina, ZomBerry Admin Tools, Weapon Redux, DayZ Plus, Chat Expansion, RPUK Clothing **@Meeloo**
 - Added GP Pistol **@Roberts**
 - Added the Ruger 1022 **@Roberts**
 - Added the trumpet **@Roberts**
@@ -39,7 +39,7 @@
 - Added M24 **@Meeloo**
 - Added the leenfield **@Meeloo**
 - Added the desert eagle (rare) **@Roberts**
-
+- Added RPUK Hoodies **@Bob Wilkinson**
 
 
 
