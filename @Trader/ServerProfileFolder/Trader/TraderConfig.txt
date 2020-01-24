@@ -20,19 +20,19 @@
 
 <Trader> Consume Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 	<Category> Vegetables							// Category Name
-		CaninaBerry,			*,		1,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
-		SambucusBerry,			*,		1,		-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
-		Plum,					*,		1,		-1	// Buyvalue -1 means it can not be bought
-		Kiwi,					*,		1,		-1	// Sellvalue -1 means it can not be selled
-		Apple,					*,		1,		-1
-		Pear,					*,		1,		-1
-		Orange,					*,		1,		-1
-		Banana,					*,		1,		-1
-		Tomato,					*,		1,		-1
-		Potato,					*,		1,		-1
-		GreenBellPepper,		*,		1,		-1
-		Zucchini,				*,		3,		1
-		Pumpkin,				*,		8,		3
+		CaninaBerry,			*,		5,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
+		SambucusBerry,			*,		5,		-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
+		Plum,					*,		5,		-1	// Buyvalue -1 means it can not be bought
+		Kiwi,					*,		7,		-1	// Sellvalue -1 means it can not be selled
+		Apple,					*,		5,		-1
+		Pear,					*,		7,		-1
+		Orange,					*,		5,		-1
+		Banana,					*,		5,		-1
+		Tomato,					*,		5,		-1
+		Potato,					*,		5,		-1
+		GreenBellPepper,		*,		6,		-1
+		Zucchini,				*,		8,		4
+		Pumpkin,				*,		10,		5
 		AgaricusMushroom,		*,		2,		1
 		AmanitaMushroom,		*,		2,		1
 		LactariusMushroom,		*,		2,		1
@@ -43,29 +43,29 @@
 		PleurotusMushroom,		*,		2,		1
 	
 	<Category> Packaged Food
-		PowderedMilk,			*,		1,		-1
-		BoxCerealCrunchin,		*,		2,		1
-		Rice,					*,		3,		1
-		Marmalade,				*,		3,		1
-		PeachesCan,				*,		4,		2
-		SardinesCan,			*,		4,		2
-		TunaCan,				*,		4,		2
-		SpaghettiCan,			*,		5,		2
-		BakedBeansCan,			*,		5,		2
-		TacticalBaconCan,		*,		5,		3		
+		PowderedMilk,			*,		4,		-1
+		BoxCerealCrunchin,		*,		20,		1
+		Rice,					*,		20,		1
+		Marmalade,				*,		10,		1
+		PeachesCan,				*,		8,		2
+		SardinesCan,			*,		7,		2
+		TunaCan,				*,		8,		2
+		SpaghettiCan,			*,		7,		2
+		BakedBeansCan,			*,		7,		2
+		TacticalBaconCan,		*,		12,		3		
 		
 	<Category> Meat
-		ChickenBreastMeat,		S,		2,		1
-		GoatSteakMeat,			S,		3,		1
-		SheepSteakMeat,			S,		3,		1
-		PigSteakMeat,			S,		4,		2
-		BoarSteakMeat,			S,		4,		2
-		WolfSteakMeat,			S,		4,		2
-		DeerSteakMeat,			S,		5,		2
-		CowSteakMeat,			S,		5,		2	
-		Sardines,				S,		7,		4
-		Carp,					S,		10,		5
-		Mackerel,				S,		10,		5
+		ChickenBreastMeat,		S,		-1,		5
+		GoatSteakMeat,			S,		-1,		6
+		SheepSteakMeat,			S,		-1,		6
+		PigSteakMeat,			S,		-1,		7
+		BoarSteakMeat,			S,		-1,		12
+		WolfSteakMeat,			S,		-1,		30
+		DeerSteakMeat,			S,		-1,		4
+		CowSteakMeat,			S,		-1,		3	
+		Sardines,				S,		-1,		3
+		Carp,					S,		-1,		5
+		Mackerel,				S,		-1,		12
 		
 	<Category> Animal Parts
 		Bone,					*,		2,		1
@@ -83,28 +83,28 @@
 		Vodka,					*,		12,		8
 		
 	<Category> Medical Supplies
-		//Rag,					1,		1,		-1
-		BandageDressing,		2,		3,		1
-		BloodTestKit,			*,		5,		2
-		//InjectionVial,		*,		5, 		2
-		Thermometer,			*,		5,		2
+		//Rag,					1,		3,		-1
+		BandageDressing,		2,		10,		1
+		BloodTestKit,			*,		15,		2
+		//InjectionVial,		*,		15, 		2
+		Thermometer,			*,		17,		2
 		DisinfectantSpray,		*,		8,		5
-		//Syringe,				*,		8, 		5
-		Heatpack,				*,		10,		5
-		StartKitIV,				*,		10,		6
-		SalineBag,				*,		15,		8
-		BloodBagEmpty,			*,		18,		10
-		FirstAidKit,			*,		20,		10
+		//Syringe,				*,		20, 		5
+		Heatpack,				*,		20,		5
+		StartKitIV,				*,		20,		6
+		SalineBag,				*,		25,		8
+		BloodBagEmpty,			*,		25,		10
+		FirstAidKit,			*,		35,		10
 		//Defibrillator,		*,		35, 	20
 		
 	<Category> Medications
 		CharcoalTablets,		*,		2,		1
 		DisinfectantAlcohol,	*,		4,		2
 		VitaminBottle,			*,		6,		4
-		TetracyclineAntibiotics,*,		8,		5
-		PainkillerTablets,		*,		10,		6
-		Epinephrine,			*,		20,		10
-		Morphine,				*,		25,		15	
+		TetracyclineAntibiotics,*,		10,		5
+		PainkillerTablets,		*,		20,		6
+		Epinephrine,			*,		40,		10
+		Morphine,				*,		37,		15	
 		
 	<Category> Money Exchange
 		MoneyRuble1,			1,		1,		-1
@@ -117,49 +117,49 @@
 
 <Trader> Misc Trader
 	<Category> Tools (small)
-		Screwdriver,			*,		3,		1
-		Wrench,					*,		3,		1
-		SewingKit,				*,		4, 		1
-		Pliers,					*,		4, 		1
-		LeatherSewingKit,		*,		5, 		2
-		Whetstone,				*,		5,		2
-		Hammer,					*,		7,		3
-		Hacksaw,				*,		7,		3
-		HandSaw,				*,		7,		3
-		WeaponCleaningKit,		*,		8, 		3
-		KitchenKnife,			*,		8,		4
-		SteakKnife,				*,		9,		4
-		HuntingKnife,			*,		9,		4
+		Screwdriver,			*,		7,		1
+		Wrench,					*,		7,		1
+		SewingKit,				*,		7, 		1
+		Pliers,					*,		7, 		1
+		LeatherSewingKit,		*,		7, 		2
+		Whetstone,				*,		6,		2
+		Hammer,					*,		14,		3
+		Hacksaw,				*,		14,		3
+		HandSaw,				*,		14,		3
+		WeaponCleaningKit,		*,		16, 	3
+		KitchenKnife,			*,		10,		4
+		SteakKnife,				*,		10,		4
+		HuntingKnife,			*,		15,		4
 		CanOpener,				*,		10,		4
-		Compass,				*,		10,		4
-		OrienteeringCompass,	*,		10,		4
-		Hatchet,				*,		10,		4
-		CombatKnife,			*,		10,		5
-		Machete,				*,		12,		6	
-		ChernarusMap,			*,		15,		5
-		Lockpick,				*,		20,		10
-		Binoculars,				*,		30,		15		
-		FishingRod,				*,		60,		25
+		Compass,				*,		20,		4
+		OrienteeringCompass,	*,		22,		4
+		Hatchet,				*,		25,		4
+		CombatKnife,			*,		30,		5
+		Machete,				*,		25,		6	
+		ChernarusMap,			*,		20,		5
+		Lockpick,				*,		35,		10
+		Binoculars,				*,		40,		15		
+		FishingRod,				*,		30,		15
 		
 	<Category> Tools (big)
-		LugWrench,				*,		4,		1
-		Crowbar,				*,		5,		3
-		Shovel,					*,		6,		3
-		Pickaxe,				*,		10,		4
-		SledgeHammer,			*,		12,		6
-		WoodAxe,				*,		20,		8
-		FirefighterAxe,			*,		30,		12
+		LugWrench,				*,		8,		1
+		Crowbar,				*,		10,		3
+		Shovel,					*,		12,		3
+		Pickaxe,				*,		15,		4
+		SledgeHammer,			*,		50,		25
+		WoodAxe,				*,		25,		8
+		FirefighterAxe,			*,		60,		30
 		
 	<Category> Electronics
-		Battery9V,				*,		8,		3
-		PersonalRadio,			*,		10,		5
+		Battery9V,				*,		12,		5
+		PersonalRadio,			*,		0,		0
 		Megaphone,				*,		30,		15
 		ElectronicRepairKit,	*,		35,		17
-		CableReel,				*,		40,		20
+		CableReel,				*,		50,		20
 		BatteryCharger,			*,		40,		20
 		BaseRadio,				*,		50,		30
 		Rangefinder,			*,		60,		35
-		NVGoggles,				*,		400,	220
+		NVGoggles,				*,		800,	500
 	
 	<Category> Fire & Lights
 		Chemlight_Blue,			*,		2,		1
@@ -248,45 +248,45 @@
 		NailedBaseballBat,		W,		45,		20
 		
 	<Category> Sidearms
-		MakarovIJ70,			W,		100,	50
-		CZ75,					W,		135,	70
-		FNX45,					W,		175,	90
-		Glock19,				W,		300,	130
-		MKII,					W,		320,	160
-		Colt1911,				W,		340,	180
-		Engraved1911,			W,		340,	180
+		MakarovIJ70,			W,		200,	50
+		CZ75,					W,		220,	70
+		FNX45,					W,		245,	90
+		Glock19,				W,		400,	130
+		MKII,					W,		390,	160
+		Colt1911,				W,		450,	180
+		Engraved1911,			W,		400,	180
 		
 	<Category> Rifles
-		Izh18,					W,		350,	175
-		Mosin9130,				W,		400,	200
-		CZ527,					W,		500,	250
-		Winchester70,			W,		500,	250
+		Izh18,					W,		450,	175
+		Mosin9130,				W,		475,	200
+		CZ527,					W,		525,	250
+		Winchester70,			W,		550,	300
 		SKS,					W,		600,	300
 		
 	<Category> Shotguns
-		Mp133Shotgun,			W,		500,	250
-		Izh43Shotgun,			W,		900,	400
-		Saiga,					W,		1500,	600
+		Mp133Shotgun,			W,		700,	250
+		Izh43Shotgun,			W,		1000,	400
+		Saiga,					W,		1700,	600
 		
 	<Category> Submachine Guns
 		CZ61,					W,		700,	300
-		UMP45,					W,		800,	350
-		MP5K,					W,		1000,	450	
-		AKS74U,					W,		1100,	600
+		UMP45,					W,		900,	350
+		MP5K,					W,		1200,	450	
+		AKS74U,					W,		1500,	600
 		
 	<Category> Assault Rifles
-		FAL,					W,		1000,	450
-		AKM,					W,		1500,	750
+		FAL,					W,		4000,	800
+		AKM,					W,		2000,	750
 		AK101,					W,		1500,	750
-		AK74,					W,		1600,	750
-		M4A1,					W,		1500,	750
+		AK74,					W,		1300,	750
+		M4A1,					W,		6000,	1200
 		
 	//<Category> Light Machine Guns
 		
 	<Category> Sniper Rifles
 		VSS,					W,		1600,	960
 		B95,					W,		1700,	1100
-		SVD,					W,		2000,	1200
+		SVD,					W,		4500,	1100
 		
 	<Category> Grenades
 		RGD5Grenade,			1,		300,	100
@@ -303,24 +303,24 @@
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		Ammo_380,				1,		1,		-1
-		Ammo_9x19,				1,		1,		-1
-		Ammo_22,				1,		1,		-1
-		Ammo_45ACP,				1,		1,		-1
-		Ammo_12gaPellets,		1,		3,		1
-		Ammo_12gaSlug,			1,		4,		2
-		Ammo_9x39,				1,		4,		2
-		Ammo_9x39AP,			1,		5,		3
-		Ammo_308Win,			1,		5,		3
-		Ammo_545x39,			1,		5,		3
-		Ammo_556x45,			1,		5,		3
-		Ammo_762x39,			1,		5,		3
-		Ammo_762x54,			1,		10,		6		
-		Ammo_556x45Tracer,		1,		10,		5
-		Ammo_545x39Tracer,		1,		10,		5
-		Ammo_308WinTracer,		1,		10,		5
-		Ammo_762x39Tracer,		1,		10,		5
-		Ammo_762x54Tracer,		1,		20,		12		
+		Ammo_380,				1,		2,		-1
+		Ammo_9x19,				1,		2,		-1
+		Ammo_22,				1,		2,		-1
+		Ammo_45ACP,				1,		2,		-1
+		Ammo_12gaPellets,		1,		6,		1
+		Ammo_12gaSlug,			1,		8,		2
+		Ammo_9x39,				1,		8,		2
+		Ammo_9x39AP,			1,		10,		3
+		Ammo_308Win,			1,		10,		3
+		Ammo_545x39,			1,		10,		3
+		Ammo_556x45,			1,		10,		3
+		Ammo_762x39,			1,		10,		3
+		Ammo_762x54,			1,		15,		6		
+		Ammo_556x45Tracer,		1,		15,		5
+		Ammo_545x39Tracer,		1,		15,		5
+		Ammo_308WinTracer,		1,		15,		5
+		Ammo_762x39Tracer,		1,		15,		5
+		Ammo_762x54Tracer,		1,		18,		12		
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -416,9 +416,9 @@
 		KazuarOptic,			*,		2200,	1400
 	
 	<Category> Supressors
-		PistolSuppressor,		*,		150,	75
-		AK_Suppressor,			*,		250,	125
-		M4_Suppressor,			*,		250,	125
+		PistolSuppressor,		*,		300,	75
+		AK_Suppressor,			*,		500,	125
+		M4_Suppressor,			*,		550,	125
 		
 	<Category> Compensators
 		Mosin_Compensator,		*,		150,	75
@@ -922,21 +922,21 @@
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
 		// craft Ghillie Clothing and sell them!
-		GhillieAtt_Mossy,		*,		220,	70
-		GhillieAtt_Tan,			*,		220,	70
-		GhillieAtt_Woodland,	*,		220,	70
-		GhillieHood_Mossy,		*,		220,	70
-		GhillieHood_Tan,		*,		220,	70
-		GhillieHood_Woodland,	*,		220,	70
-		GhillieBushrag_Mossy,	*,		400,	130
-		GhillieBushrag_Tan,		*,		400,	130
-		GhillieBushrag_Woodland,*,		400,	130
-		GhillieTop_Mossy,		*,		600,	200
-		GhillieTop_Tan,			*,		600,	200
-		GhillieTop_Woodland,	*,		600,	200
-		GhillieSuit_Mossy,		*,		1000,	300
-		GhillieSuit_Tan,		*,		1000,	300
-		GhillieSuit_Woodland,	*,		1000,	300
+		GhillieAtt_Mossy,		*,		-1,	70
+		GhillieAtt_Tan,			*,		-1,	70
+		GhillieAtt_Woodland,	*,		-1,	70
+		GhillieHood_Mossy,		*,		-1,	70
+		GhillieHood_Tan,		*,		-1,	70
+		GhillieHood_Woodland,	*,		-1,	70
+		GhillieBushrag_Mossy,	*,		-1,	130
+		GhillieBushrag_Tan,		*,		-1,	130
+		GhillieBushrag_Woodland,*,		-1,	130
+		GhillieTop_Mossy,		*,		-1,	200
+		GhillieTop_Tan,			*,		-1,	200
+		GhillieTop_Woodland,	*,		-1,	200
+		GhillieSuit_Mossy,		*,		-1,	300
+		GhillieSuit_Tan,		*,		-1,	300
+		GhillieSuit_Woodland,	*,		-1,	300
 		
 	//<Category> Seasonal
 		//SantasBeard,			*,		15,		0
@@ -1182,7 +1182,7 @@
 		CivSedanWheel,						*,		600,	120
 		
 	<Category> Keys
-		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
+		VehicleKeyDuplicate,	K,		20,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
 		
 		
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
