@@ -63,6 +63,21 @@ class CustomMission: MissionServer
 
 	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
 	{
+		player.RemoveAllItems();
+
+		int rndHoodie = Math.RandomInt(0, 2);
+		if ( rndHoodie == 0 )
+		{
+			player.GetInventory().CreateInInventory("Hoodie_RPUK_Red");
+		}
+		else
+		{
+			player.GetInventory().CreateInInventory("Hoodie_RPUK_Black");
+		}
+		
+		player.GetInventory().CreateInInventory("Jeans_Blue");
+		player.GetInventory().CreateInInventory("AthleticShoes_Black");
+		
 		EntityAI itemTop;
 		EntityAI itemEnt;
 		ItemBase itemBs;
@@ -93,6 +108,7 @@ class CustomMission: MissionServer
 
 			SetRandomHealth(itemEnt);
 		}
+
 	}
 };
 
