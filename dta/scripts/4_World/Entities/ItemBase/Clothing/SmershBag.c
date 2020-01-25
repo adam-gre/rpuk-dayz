@@ -1,4 +1,0 @@
-class SmershBag extends Clothing
-{
-	
-};

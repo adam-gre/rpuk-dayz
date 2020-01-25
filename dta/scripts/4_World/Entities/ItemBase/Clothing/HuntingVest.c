@@ -1,1 +1,0 @@
-class HuntingVest extends Clothing {};

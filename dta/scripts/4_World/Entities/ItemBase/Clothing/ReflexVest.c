@@ -1,1 +1,0 @@
-class ReflexVest extends Clothing {};

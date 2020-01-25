@@ -1,1 +1,0 @@
-class AviatorGlasses extends Clothing {};
