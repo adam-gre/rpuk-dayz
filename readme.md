@@ -44,7 +44,7 @@
 
 
 **1/02/2020 Update**
-/Trader\
+
 -Increased sale price of Ghilli suits **@Roberts**
 -Increased buy price of netting 50-400 **@Roberts**
 -Increased buy price of chest holster 70-100 **@Roberts**
