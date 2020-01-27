@@ -210,10 +210,10 @@
 		HescoBox,				*,		650,	250
 		CombinationLock,		*,		700,	300
 		CombinationLock4,		*,		900,	400
-		BarrelHoles_Blue,		*,		800,	300
-		BarrelHoles_Green,		*,		800,	300
-		BarrelHoles_Red,		*,		800,	300
-		BarrelHoles_Yellow,		*,		800,	300
+		BarrelHoles_Blue,		*,		1000,	300
+		BarrelHoles_Green,		*,		1000,	300
+		BarrelHoles_Red,		*,		1000,	300
+		BarrelHoles_Yellow,		*,		1000,	300
 		Barrel_Blue,			M,		1500,	350
 		Barrel_Green,			M,		1500,	350
 		Barrel_Red,				M,		1500,	350
@@ -980,10 +980,10 @@
 		MountainBag_Orange,		*,		300,	80
 		MountainBag_Red,		*,		300,	80
 		MountainBag_Blue,		*,		300,	80
-		MountainBag_Green,		*,		360,	100
-		AliceBag_Black,			*,		400,	150
-		AliceBag_Green,			*,		400,	150
-		AliceBag_Camo,			*,		500,	220
+		MountainBag_Green,		*,		360,	250
+		AliceBag_Black,			*,		800,	275
+		AliceBag_Green,			*,		800,	275
+		AliceBag_Camo,			*,		950,	320
 
 	//<Category> Handmade
 		//LeatherGloves_Beige,	*,		0,		0
