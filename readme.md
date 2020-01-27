@@ -43,13 +43,21 @@
 - Optimized server performance **@Roberts**
 
 
-**1/02/2020 Update**
+**27/01/2020 Hot-Fix**
 
 - Increased sale price of Ghilli suits **@Roberts**
 - Increased buy price of netting 50-400 **@Roberts**
 - Increased buy price of chest holster 70-100 **@Roberts**
 - Increased buy price of pouches 90-150 **@Roberts**
 - Increased buy price of car various car parts **@Roberts**.
+- Fixed items that wouldn't spawn **@Meeloo**
+- Adjusted spawn rate for weapons **@Meeloo**
+- Removed M24 **@Meeloo**
+- Removed M14 **@Meeloo**
+- Removed Lee Enfield **@Meeloo**
+- Removed Gunrack **@Meeloo**
+- Added new loading screen image **@Bob Wilkinson**
+
 
 
 
