@@ -194,7 +194,7 @@
 		XmasLights,				*,		25,		10
 		HandcuffKeys,			*,		35,		12
 		Handcuffs,				*,		50,		15
-		Netting,				1,		50,		10
+		Netting,				1,		400,	10
 		BurlapSack,				*,		50,		10
 		WoodenPlank,			10,		50,		15
 		MetalPlate,				*,		60,		18
@@ -922,21 +922,21 @@
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
 		// craft Ghillie Clothing and sell them!
-		GhillieAtt_Mossy,		*,		-1,	70
-		GhillieAtt_Tan,			*,		-1,	70
-		GhillieAtt_Woodland,	*,		-1,	70
-		GhillieHood_Mossy,		*,		-1,	70
-		GhillieHood_Tan,		*,		-1,	70
-		GhillieHood_Woodland,	*,		-1,	70
-		GhillieBushrag_Mossy,	*,		-1,	130
-		GhillieBushrag_Tan,		*,		-1,	130
-		GhillieBushrag_Woodland,*,		-1,	130
-		GhillieTop_Mossy,		*,		-1,	200
-		GhillieTop_Tan,			*,		-1,	200
-		GhillieTop_Woodland,	*,		-1,	200
-		GhillieSuit_Mossy,		*,		-1,	300
-		GhillieSuit_Tan,		*,		-1,	300
-		GhillieSuit_Woodland,	*,		-1,	300
+		GhillieAtt_Mossy,		*,		-1,	250
+		GhillieAtt_Tan,			*,		-1,	250
+		GhillieAtt_Woodland,	*,		-1,	250
+		GhillieHood_Mossy,		*,		-1,	400
+		GhillieHood_Tan,		*,		-1,	400
+		GhillieHood_Woodland,	*,		-1,	400
+		GhillieBushrag_Mossy,	*,		-1,	600
+		GhillieBushrag_Tan,		*,		-1,	600
+		GhillieBushrag_Woodland,*,		-1,	600
+		GhillieTop_Mossy,		*,		-1,	600
+		GhillieTop_Tan,			*,		-1,	600
+		GhillieTop_Woodland,	*,		-1,	600
+		GhillieSuit_Mossy,		*,		-1,	600
+		GhillieSuit_Tan,		*,		-1,	600
+		GhillieSuit_Woodland,	*,		-1,	600
 		
 	//<Category> Seasonal
 		//SantasBeard,			*,		15,		0
@@ -944,9 +944,9 @@
 		//PumpkinHelmet,		*,		50,		0
 
 	<Category> Holster & Pouches
-		ChestHolster,			*,		60,		20
-		PlateCarrierHolster,	*,		60,		20
-		PlateCarrierPouches,	*,		100,		20
+		ChestHolster,			*,		100,	20
+		PlateCarrierHolster,	*,		100,	20
+		PlateCarrierPouches,	*,		150,	20
 		
 	<Category> Belt
 		CivilianBelt,			*,		100,	30
@@ -1040,9 +1040,9 @@
 		HeadlightH7_Box,		*,		30,		15
 		SparkPlug,				*,		60,		40
 		EngineOil,				*,		70,		40
-		CarBattery,				*,		100,	50
-		TruckBattery,			*,		180,	100
-		CarRadiator,			*,		200,	100
+		CarBattery,				*,		200,	50
+		TruckBattery,			*,		250,	100
+		CarRadiator,			*,		400,	100
 		TireRepairKit,			*,		220,	100
 		HatchbackHood,						*,		300,	100
 		HatchbackHood_Blue,					*,		300,	100
