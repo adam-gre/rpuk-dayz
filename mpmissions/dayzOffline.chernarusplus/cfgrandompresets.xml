@@ -116,7 +116,7 @@
 				<item name="Flashlight" chance="0.2" />
 		</cargo>
 		<cargo chance="0.15" name="ammoCivil">
-				<item name="Ammo_380" chance="0.22" />
+				<item name="Ammo_380" chance="0.15" />
 				<item name="AmmoBox_380_35Rnd" chance="0.08" />
 				<item name="Ammo_9x19" chance="0.15" />
 				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
@@ -361,7 +361,7 @@
 		</attachments>
 
 		<!-- -------------------------  ARMY ATTACHMENTS  ------------------------- -->
-		<attachments chance="0.60" name="hatsArmy">
+		<attachments chance="0.40" name="hatsArmy">
 			<item name="TankerHelmet" chance="0.10" />
 			<!-- <item name="GorkaHelmet" chance="0.10" /> Problem with animation of chin cover -->
 			<item name="PilotkaCap" chance="0.10" />
