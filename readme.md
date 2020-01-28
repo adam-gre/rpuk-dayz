@@ -67,4 +67,3 @@
 - Dead players bodies do not dissapear until 4 hours after they are killed **@Roberts**
 - Logout time increased to 20 seconds to ensure players data is saved to the database **@Roberts**
 - Dead zombies now dissapear 5 minutes after they have been killed **@Roberts**
-- Removed unnecessary scripts to improve server performance **@Roberts**
