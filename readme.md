@@ -56,6 +56,11 @@
 - Removed M14 **@Meeloo**
 - Removed Lee Enfield **@Meeloo**
 - Removed Gunrack **@Meeloo**
+
+**28/01/2020 Hot-Fix**
+
+- Fixed issue with cars not spawning and despawning after exiting the server **@Meeloo** **@Bob Wilkinson**
+
 - Added new loading screen image **@Bob Wilkinson**
 
 
