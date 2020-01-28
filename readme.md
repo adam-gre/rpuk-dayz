@@ -59,4 +59,10 @@
 - Added new loading screen image **@Bob Wilkinson**
 
 
+**01/02/2020 Main Update** 
+- Fixed bug where bought bandages only had 50% usage left in them 
+- Increased prices for base building supplies 
+- Added different coloured attachments for the AK variants
+- Decreased spawn for M4A1's 
+
 
