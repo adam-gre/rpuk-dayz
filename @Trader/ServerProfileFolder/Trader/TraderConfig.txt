@@ -84,7 +84,7 @@
 		
 	<Category> Medical Supplies
 		//Rag,					1,		3,		-1
-		BandageDressing,		2,		10,		1
+		BandageDressing,		*,		10,		1
 		BloodTestKit,			*,		15,		2
 		//InjectionVial,		*,		15, 		2
 		Thermometer,			*,		17,		2

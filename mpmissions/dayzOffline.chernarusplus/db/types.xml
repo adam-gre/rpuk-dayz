@@ -26,7 +26,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AK101_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -37,7 +37,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK101_Green">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -74,7 +74,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK74_Green">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -135,7 +135,7 @@
         <usage name="Military"/>
     </type>
     <type name="AKS74U_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -158,7 +158,7 @@
         <usage name="Military"/>
     </type>
     <type name="AKS74U_Green">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -195,7 +195,7 @@
         <usage name="Military"/>
     </type>
     <type name="AK_FoldingBttstck_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -206,7 +206,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK_FoldingBttstck_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -229,7 +229,7 @@
         <usage name="Military"/>
     </type>
     <type name="AK_PlasticBttstck_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -240,7 +240,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK_PlasticBttstck_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -276,7 +276,7 @@
         <usage name="Military"/>
     </type>
     <type name="AK_RailHndgrd_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -287,7 +287,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK_RailHndgrd_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -7999,7 +7999,7 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>7</min>
@@ -8013,7 +8013,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -8024,7 +8024,7 @@
         <category name="weapons"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
