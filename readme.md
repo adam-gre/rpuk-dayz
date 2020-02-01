@@ -91,4 +91,5 @@
 - Increased the buy price for weapons **@Roberts**
 - Increased the sell price for weapons **@Roberts**
 - Added Payday (game) masks to the trader to buy **@Roberts**
+- Added defibs to the trader store **@Roberts**
 
