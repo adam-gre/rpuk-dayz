@@ -1,0 +1,18 @@
+	<Category> Base Fortifications
+		Sandbag_Empty,																					*,		500,	100
+		MetalBeam,																						*,		500,	100
+		CementBag,																				   		*,		500,	100
+		Hedgehog_Dismantled,																			*,		500,	100
+		Razorwire,																						*,		500,	100
+		WindowBarrier,																					*,		500,	100
+		
+		SandbagLong_Kit,																				*,		1000,	500
+		SandbagRound_Kit,																				*,		1000,	500
+		Hesco_1_Kit,																					*,		1000,	500
+		Hesco_3_Kit,																					*,		1000,	500
+		Hesco_5_Kit,																					*,		1000,	500
+		Dragon_Teeth_Kit,																				*,		1000, 	500
+		Hedgehog_Kit,																					*,		1000,	500
+		RoadBarrier_Kit,																				*,		1000,	500
+		Razorwire_Kit,																					*,		1000,	500
+		WindowBarrier_Kit,																				*,		1000,	500
