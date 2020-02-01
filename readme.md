@@ -88,3 +88,7 @@
 - Dead players bodies do not dissapear until 4 hours after they are killed **@Roberts**
 - Logout time increased to 20 seconds to ensure players data is saved to the database **@Roberts**
 - Dead zombies now dissapear 5 minutes after they have been killed **@Roberts**
+- Increased the buy price for weapons **@Roberts**
+- Increased the sell price for weapons **@Roberts**
+- Added Payday (game) masks to the trader to buy **@Roberts**
+
