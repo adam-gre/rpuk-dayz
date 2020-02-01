@@ -95,7 +95,7 @@
 		SalineBag,				*,		25,		8
 		BloodBagEmpty,			*,		25,		10
 		FirstAidKit,			*,		35,		10
-		//Defibrillator,		*,		35, 	20
+		Defibrillator,		*,		    50, 	25
 		
 	<Category> Medications
 		CharcoalTablets,		*,		2,		1
