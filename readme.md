@@ -56,7 +56,34 @@
 - Removed M14 **@Meeloo**
 - Removed Lee Enfield **@Meeloo**
 - Removed Gunrack **@Meeloo**
+
+**28/01/2020 Hot-Fix**
+
+- Fixed issue with cars not spawning and despawning after exiting the server **@Meeloo** **@Bob Wilkinson**
+
+**01/02/2020 Update**
+
 - Added new loading screen image **@Bob Wilkinson**
+- Added Hunter Vest **@Meeloo**
+- Adjusted item spawn rates **@Meeloo**
+- Adjusted food spawn rates **@Meeloo**
+- Added AWM **@Meeloo**
+- Added Kar98 **@Meeloo**
+- Added M1A **@Meeloo**
+- Added M16 **@Meeloo**
+- Added MP7 **@Meeloo**
+- Added Scar **@Meeloo**
+- Added APS **@Meeloo**
+- Added LRS Scope **@Meeloo**
+- Added new clothing options **@Meeloo**
+- Added new base decoration (Gunracks, Gun Cabinet, Fridge, Storage Box, Shelves)**@Meeloo**
+- Added new base fortifications (Sandbags) **@Meeloo**
+- Added Code Locks **@Meeloo**
+- Added Airdrops **@Meeloo**
+- Added Mods: Airdrop Upgraded, Base Fortification, Cl0ud's Clothing Set, Code Lock, DayZ Expansion Notification, More Guns, Mosin Scope, VanillaPlusPlus Map
+
+
+
 
 
 **01/02/2020 Main Update** 
@@ -67,4 +94,3 @@
 - Dead players bodies do not dissapear until 4 hours after they are killed **@Roberts**
 - Logout time increased to 20 seconds to ensure players data is saved to the database **@Roberts**
 - Dead zombies now dissapear 5 minutes after they have been killed **@Roberts**
-- Removed unnecessary scripts to improve server performance **@Roberts**

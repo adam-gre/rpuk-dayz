@@ -1,0 +1,13 @@
+[AirdropBase] Base class created & settings loaded.
+[2020-01-29 @ 23-01-28] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Gorka <8775.000000, 0.000000, 9200.000000>
+[EOnCallAirdrop] Drop zone offset to: <8832.544922, 2438.000000, 9122.494141>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 10144.900391>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.123936° / 82.899°, Text: 'East (83°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Gorka' from the East (83°).
+[2020-01-29 @ 23-06-28] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <10050.000000, 0.000000, 2450.000000>
+[EOnCallAirdrop] Drop zone offset to: <10046.956055, 2438.000000, 2417.588623>
+[EOnCallAirdrop] Aircraft spawn point: <1399.470215, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.7621° / 248.257°, Text: 'West (248°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Elektrozavodsk' from the West (248°).
