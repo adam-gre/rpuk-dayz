@@ -159,7 +159,7 @@
 		BatteryCharger,			*,		120,		20
 		BaseRadio,				*,		50,		30
 		Rangefinder,			*,		150,		35
-		NVGoggles,				*,		1200,	500
+		NVGoggles,				*,		2500,	500
 	
 	<Category> Fire & Lights
 		Chemlight_Blue,			*,		2,		1
@@ -194,7 +194,7 @@
 		XmasLights,				*,		25,		10
 		HandcuffKeys,			*,		35,		12
 		Handcuffs,				*,		50,		15
-		Netting,				1,		400,	10
+		Netting,				1,		400,	200
 		BurlapSack,				*,		50,		10
 		WoodenPlank,			10,		50,		15
 		MetalPlate,				*,		60,		18
@@ -445,7 +445,7 @@
 		DesignerGlasses,		*,		30,		15
 		AviatorGlasses,			*,		40,		20
 		TacticalGoggles,		*,		60,		30
-		NVGHeadstrap,			*,		200,	120
+		NVGHeadstrap,			*,		400,	120
 		
 	<Category> Armbands
 		Armband_Pink,			*,		15,		5
@@ -1041,7 +1041,7 @@
 		SparkPlug,				*,		60,		40
 		EngineOil,				*,		70,		40
 		CarBattery,				*,		200,	50
-		TruckBattery,			*,		250,	100
+		TruckBattery,			*,		300,	250
 		CarRadiator,			*,		400,	100
 		TireRepairKit,			*,		220,	100
 		HatchbackHood,						*,		300,	100
