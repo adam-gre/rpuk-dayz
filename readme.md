@@ -81,9 +81,15 @@
 - Added Code Locks **@Meeloo**
 - Added Airdrops **@Meeloo**
 - Added Mods: Airdrop Upgraded, Base Fortification, Cl0ud's Clothing Set, Code Lock, DayZ Expansion Notification, More Guns, Mosin Scope, VanillaPlusPlus Map
-
-
-
-
-
+- Fixed bug where bought bandages only had 50% usage left in them **@Roberts**
+- Increased prices for base building supplies **@Roberts**
+- Added different coloured attachments for the AK variants **@Roberts**
+- Decreased spawn for M4A1's **@Roberts**
+- Dead players bodies do not dissapear until 4 hours after they are killed **@Roberts**
+- Logout time increased to 20 seconds to ensure players data is saved to the database **@Roberts**
+- Dead zombies now dissapear 5 minutes after they have been killed **@Roberts**
+- Increased the buy price for weapons **@Roberts**
+- Increased the sell price for weapons **@Roberts**
+- Added Payday (game) masks to the trader to buy **@Roberts**
+- Added defibs to the trader store **@Roberts**
 
