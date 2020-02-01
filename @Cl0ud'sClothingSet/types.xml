@@ -1,0 +1,692 @@
+	<!--
+	
+	Cl0ud's Clothing Set V2
+	Here you go bois.
+	
+	-->
+	<!-- Cl0ud's Clothing Set -->
+	<type name="CC_Ushanka_Brown">
+        <nominal>50</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_Bandana_Black">
+        <nominal>15</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_Bandana_Brown">
+        <nominal>15</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_Bandana_DarkBlue">
+        <nominal>15</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_Bandana_DarkGreen">
+        <nominal>15</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_Bandana_DarkRed">
+        <nominal>15</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_HikingJacket_Lime">
+        <nominal>30</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_HikingJacket_Orange">
+        <nominal>30</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_HikingJacket_Yellow">
+        <nominal>30</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_HuntingJacket_Black">
+        <nominal>20</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Akatsuki">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Asteroids">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Brijan">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Fancy">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Green">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Grey">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Orange">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_QuiltedJacket_Red">
+        <nominal>40</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_RainCoat_Brown">
+        <nominal>60</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_RainCoat_White">
+        <nominal>60</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="CC_RidersJacket_BlackWolf">
+        <nominal>30</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+    </type>
+	<type name="CC_RidersJacket_Brown">
+        <nominal>60</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+    </type>
+	<type name="CC_RidersJacket_BrownWolf">
+        <nominal>30</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+    </type>
+	<type name="CC_RidersJacket_Red">
+        <nominal>60</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+    </type>
+	<type name="CC_RidersJacket_RedWolf">
+        <nominal>30</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+    </type>
+	<type name="CC_TrackSuitJacket_Blue">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitJacket_Green">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitJacket_Red">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitJacket_White">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitJacket_Yellow">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitPants_Blue">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitPants_Green">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitPants_Red">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitPants_White">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TrackSuitPants_Yellow">
+        <nominal>90</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_DryBag_DayZ">
+        <nominal>10</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Coast"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_DryBag_GreenMtn">
+        <nominal>10</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Coast"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_DryBag_Itachi">
+        <nominal>10</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Coast"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_DryBag_Survivor">
+        <nominal>10</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Coast"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_HuntingBag_Black">
+        <nominal>15</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_HuntingBag_Brown">
+        <nominal>15</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_HuntingBag_Olive">
+        <nominal>15</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_HuntingBag_Tan">
+        <nominal>15</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="CC_MountainBag_Black">
+        <nominal>30</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_MountainBag_Brown">
+        <nominal>30</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_MountainBag_Yellow">
+        <nominal>30</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TaloonBag_Black">
+        <nominal>40</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TaloonBag_Brown">
+        <nominal>40</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TaloonBag_Red">
+        <nominal>40</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_TaloonBag_Yellow">
+        <nominal>40</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="CC_Armband_Brown">
+        <lifetime>5600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	

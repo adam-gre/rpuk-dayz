@@ -61,7 +61,29 @@
 
 - Fixed issue with cars not spawning and despawning after exiting the server **@Meeloo** **@Bob Wilkinson**
 
+**01/02/2020 Update**
+
 - Added new loading screen image **@Bob Wilkinson**
+- Added Hunter Vest **@Meeloo**
+- Adjusted item spawn rates **@Meeloo**
+- Adjusted food spawn rates **@Meeloo**
+- Added AWM **@Meeloo**
+- Added Kar98 **@Meeloo**
+- Added M1A **@Meeloo**
+- Added M16 **@Meeloo**
+- Added MP7 **@Meeloo**
+- Added Scar **@Meeloo**
+- Added APS **@Meeloo**
+- Added LRS Scope **@Meeloo**
+- Added new clothing options **@Meeloo**
+- Added new base decoration (Gunracks, Gun Cabinet, Fridge, Storage Box, Shelves)**@Meeloo**
+- Added new base fortifications (Sandbags) **@Meeloo**
+- Added Code Locks **@Meeloo**
+- Added Airdrops **@Meeloo**
+- Added Mods: Airdrop Upgraded, Base Fortification, Cl0ud's Clothing Set, Code Lock, DayZ Expansion Notification, More Guns, Mosin Scope, VanillaPlusPlus Map
+
+
+
 
 
 **01/02/2020 Main Update** 

@@ -1,0 +1,10 @@
+name      = "Airdrop-Upgraded";
+picture   = "Airdrop/data/Airdrop_Logo.tga";
+logoSmall = "Airdrop/data/Airdrop_Logo.tga";
+logo      = "Airdrop/data/Airdrop_Logo_GS.tga";
+logoOver  = "Airdrop/data/Airdrop_Logo.tga";
+tooltip   = "Airdrop-Upgraded by DiGiaCom Tech, Camino, & philipp";
+action    = "https://steamcommunity.com/sharedfiles/filedetails/?id=1870524790";
+author    = "DiGiaCom Tech, Camino, & philipp";
+overview  = "Provides air delivery of randomly selected loot containers to Player's location or predefined sites scattered across the map.";
+version   = "1.20.01.20";

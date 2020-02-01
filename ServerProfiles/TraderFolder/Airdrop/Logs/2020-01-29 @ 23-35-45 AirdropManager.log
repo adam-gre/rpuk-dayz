@@ -1,0 +1,19 @@
+[AirdropBase] Base class created & settings loaded.
+[2020-01-29 @ 23-39-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <2414.968018, 190.977936, 5156.193848>
+[EOnCallAirdrop] Drop zone offset to: <2398.591064, 2348.000000, 5143.304199>
+[EOnCallAirdrop] Aircraft spawn point: <-466.490051, 2348.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.82253° / 345.577°, Text: 'North (346°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (-466.49/16360) from the North (346°).
+[2020-01-29 @ 23-44-38] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <2414.812744, 191.294052, 5214.577148>
+[EOnCallAirdrop] Drop zone offset to: <2441.318359, 2348.000000, 5174.837891>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2348.000000, 9794.702148>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.21146° / 323.293°, Text: 'North/West (323°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (-1000/9794.7) from the North/West (323°).
+[2020-01-29 @ 23-46-14] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Berezino <12450.000000, 0.000000, 9250.000000>
+[EOnCallAirdrop] Drop zone offset to: <12378.125977, 2348.000000, 9273.708008>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2348.000000, 8500.926758>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -3.08596° / 266.812°, Text: 'West (267°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Berezino' from the West (267°).

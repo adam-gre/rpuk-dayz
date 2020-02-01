@@ -1,0 +1,19 @@
+[AirdropBase] Base class created & settings loaded.
+[2020-01-29 @ 21-19-45] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <5264.812012, 9.960861, 2196.402344>
+[EOnCallAirdrop] Drop zone offset to: <5256.976563, 2438.000000, 2155.892090>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 2604.238525>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.0367414° / 87.8949°, Text: 'East (88°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (16360/2604.24) from the East (88°).
+[2020-01-29 @ 21-24-47] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <5265.869141, 11.142981, 2203.504883>
+[EOnCallAirdrop] Drop zone offset to: <5261.440918, 2438.000000, 2185.162354>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 11804.238281>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.71336° / 49.1275°, Text: 'North/East (49°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (16360/11804.2) from the North/East (49°).
+[2020-01-29 @ 21-27-39] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Myshkino <1900.000000, 0.000000, 7600.000000>
+[EOnCallAirdrop] Drop zone offset to: <1863.502930, 2438.000000, 7516.299805>
+[EOnCallAirdrop] Aircraft spawn point: <7688.741699, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.978347° / 146.055°, Text: 'South/East (146°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Myshkino' from the South/East (146°).
