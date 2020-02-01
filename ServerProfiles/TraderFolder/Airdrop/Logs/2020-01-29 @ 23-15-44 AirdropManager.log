@@ -1,0 +1,13 @@
+[AirdropBase] Base class created & settings loaded.
+[2020-01-29 @ 23-17-50] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <9487.007813, 304.942535, 8819.532227>
+[EOnCallAirdrop] Drop zone offset to: <9492.188477, 2438.000000, 8838.522461>
+[EOnCallAirdrop] Aircraft spawn point: <1478.410645, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.25496° / 219.2°, Text: 'South/West (219°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (1478.41/-1000) from the South/West (219°).
+[2020-01-29 @ 23-21-13] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernogorsk <7400.000000, 0.000000, 3500.000000>
+[EOnCallAirdrop] Drop zone offset to: <7384.356934, 2438.000000, 3421.309570>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 11866.754883>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.751173° / 46.961°, Text: 'North/East (47°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Chernogorsk' from the North/East (47°).
