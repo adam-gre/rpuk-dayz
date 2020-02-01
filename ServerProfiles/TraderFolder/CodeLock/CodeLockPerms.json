@@ -1,6 +1,6 @@
 [
     {
-        "playerId": "76561198047572402",
+        "playerId": "76561198117639423",
         "playerPerms": {
             "CanOpenLocks": "false",
             "CanChangePasscodes": "false",
@@ -8,11 +8,56 @@
         }
     },
     {
-        "playerId": "76561198047572402",
+        "playerId": "76561198206695552",
         "playerPerms": {
             "CanOpenLocks": "false",
             "CanChangePasscodes": "false",
             "CanRemoveLocks": "false"
         }
-    }
+    },
+	
+	  {
+        "playerId": "#",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    },
+	
+	 {
+        "playerId": "#",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    },
+	
+	 {
+        "playerId": "#",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    },
+	
+	 {
+        "playerId": "#",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    },
+	
+	 {
+        "playerId": "#",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    },
 ]
