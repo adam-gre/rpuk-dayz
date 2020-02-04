@@ -275,18 +275,18 @@
 		AKS74U,					W,		1500,	600
 		
 	<Category> Assault Rifles
-		FAL,					W,		15000,	800
+		FAL,					W,		14000,	3000
 		AKM,					W,		12000,	750
-		AK101,					W,		10000,	750
-		AK74,					W,		12000,	750
-		M4A1,					W,		20000,	10000
+		AK101,					W,		7000,	750
+		AK74,					W,		10000,	750
+		M4A1,					W,		12000,	2500
 		
 	//<Category> Light Machine Guns
 		
 	<Category> Sniper Rifles
-		VSS,					W,		7000,	3000
+		VSS,					W,		5500,	1500
 		B95,					W,		3000,	1100
-		SVD,					W,		10000,	5000
+		SVD,					W,		6000,	2500
 		
 	<Category> Grenades
 		RGD5Grenade,			1,		300,	100
@@ -413,12 +413,12 @@
 		HuntingOptic,			*,		1000,	550
 		PSO1Optic,				*,		1100,	600	
 		PSO11Optic,				*,		1400,	840
-		KazuarOptic,			*,		2200,	1400
+		KazuarOptic,			*,		2200,	900
 	
 	<Category> Supressors
-		PistolSuppressor,		*,		3000,	1500
-		AK_Suppressor,			*,		6000,	3000
-		M4_Suppressor,			*,		7000,	4500
+		PistolSuppressor,		*,		1000,	400
+		AK_Suppressor,			*,		2000,	1000
+		M4_Suppressor,			*,		3000,	1500
 		
 	<Category> Compensators
 		Mosin_Compensator,		*,		150,	75
