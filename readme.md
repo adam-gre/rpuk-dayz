@@ -93,3 +93,9 @@
 - Added Payday (game) masks to the trader to buy **@Roberts**
 - Added defibs to the trader store **@Roberts**
 
+**08/02/2020 Update**
+
+- Added spawn locations for money **@Roberts**
+- Changed rain cycle (less rain) **@Roberts**
+
+
