@@ -6,7 +6,7 @@ void main()
 	weather.MissionWeather(false);    // false = use weather controller from Weather.c
 
 	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
-	weather.GetRain().Set( 0, 0, 1);
+	weather.GetRain().Set( 0, 0, 0.5);
 	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
 
 	//INIT ECONOMY--------------------------------------
