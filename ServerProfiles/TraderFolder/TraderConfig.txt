@@ -607,9 +607,9 @@
 		BandanaMask_CamoPattern,*,		35,		10
 		NioshFaceMask,			*,		40,		10
 		HockeyMask,				*,		40,		10
-		//HoxtonMask,			*,		    80,		40
-		//WolfMask,				*,		80,		40
-		//DallasMask,			*,		    80,		40
+		HoxtonMask,			*,		    80,		40
+		WolfMask,				*,		80,		40
+		DallasMask,			*,		    80,		40
 		Balaclava3Holes_Blue,	*,		50,		40
 		Balaclava3Holes_Beige,	*,		50,		12
 		Balaclava3Holes_Black,	*,		55,		13
@@ -1035,7 +1035,10 @@
 		CivilianSedan,			V,		20000,	11000
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
-		CrSk_Land_Rover_Defender_110_Red, v, 50000, 20000
+		CrSk_Land_Rover_Defender_110, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110_Green, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110_UN, V, 75000, 50000
+
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
