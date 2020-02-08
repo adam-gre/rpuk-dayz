@@ -1,1 +1,0 @@
-class DesignerGlasses extends Clothing {};
