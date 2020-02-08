@@ -97,8 +97,8 @@
 
 - Added spawn locations for money **@Roberts**
 - Changed rain cycle (less rain) **@Roberts**
-- Added the Defender **@Roberts**
+- Added the Defender **@Roberts @Bob Wilkinson**
 - Added the Defender to the trader **@Roberts**
-
+- Fixed spawning with the RPUK Hoodies **@Roberts**
 
 
