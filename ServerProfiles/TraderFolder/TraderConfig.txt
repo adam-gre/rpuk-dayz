@@ -1037,9 +1037,9 @@
 		CivilianSedan,			V,		20000,	11000
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
-        CrSk_Land_Rover_Defender_110, v, 75000, 50000
-        CrSk_Land_Rover_Defender_110_Green, v, 75000, 50000
-        CrSk_Land_Rover_Defender_110_UN, v, 75000, 50000
+        CrSk_Land_Rover_Defender_110, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110_Green, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110_UN, V, 75000, 50000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
