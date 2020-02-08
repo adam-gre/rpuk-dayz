@@ -1,7 +1,7 @@
 {
     "Controls": {
         "Version": "1.20.01.20",
-        "Interval": 60,
+        "Interval": 45,
         "Mode": 3,
         "AD_LogManager": 0,
         "AD_LogAircraft": 0,
