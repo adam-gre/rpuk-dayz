@@ -1,4 +1,0 @@
-class ActionBase_Basic
-{
-} 
-
