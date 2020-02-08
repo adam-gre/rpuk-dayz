@@ -1,5 +1,0 @@
-enum ETimeOfDay
-{
-	Day,
-	Night,
-}

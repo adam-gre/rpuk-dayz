@@ -275,18 +275,18 @@
 		AKS74U,					W,		1500,	600
 		
 	<Category> Assault Rifles
-		FAL,					W,		15000,	800
+		FAL,					W,		14000,	3000
 		AKM,					W,		12000,	750
-		AK101,					W,		10000,	750
-		AK74,					W,		12000,	750
-		M4A1,					W,		20000,	10000
+		AK101,					W,		7000,	750
+		AK74,					W,		10000,	750
+		M4A1,					W,		12000,	2500
 		
 	//<Category> Light Machine Guns
 		
 	<Category> Sniper Rifles
-		VSS,					W,		7000,	3000
+		VSS,					W,		5500,	1500
 		B95,					W,		3000,	1100
-		SVD,					W,		10000,	5000
+		SVD,					W,		6000,	2500
 		
 	<Category> Grenades
 		RGD5Grenade,			1,		300,	100
@@ -300,6 +300,8 @@
 		RDG2SmokeGrenade_White,	1,		300,	100
 		FlashGrenade,			1,		300,	100
 		
+	<Category> Modded Weapons 
+	    Coming Soon! 1, -1, -1
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -413,12 +415,12 @@
 		HuntingOptic,			*,		1000,	550
 		PSO1Optic,				*,		1100,	600	
 		PSO11Optic,				*,		1400,	840
-		KazuarOptic,			*,		2200,	1400
+		KazuarOptic,			*,		2200,	900
 	
 	<Category> Supressors
-		PistolSuppressor,		*,		3000,	1500
-		AK_Suppressor,			*,		6000,	3000
-		M4_Suppressor,			*,		7000,	4500
+		PistolSuppressor,		*,		1000,	400
+		AK_Suppressor,			*,		2000,	1000
+		M4_Suppressor,			*,		3000,	1500
 		
 	<Category> Compensators
 		Mosin_Compensator,		*,		150,	75
@@ -1035,6 +1037,9 @@
 		CivilianSedan,			V,		20000,	11000
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
+        CrSk_Land_Rover_Defender_110, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110_Green, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110_UN, V, 75000, 50000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
@@ -1180,7 +1185,28 @@
 		CivSedanDoors_BackRight_WineRust,	*,		500,	180
 		CivSedanDoors_BackRight_BlackRust,	*,		500,	180
 		CivSedanWheel,						*,		600,	120
-		
+<Category> land rover parts
+        Defender110_koleso, *, 510, 100
+        Defender110_dver_1_1, *, 250, 100
+        Defender110_dver_2_1, *, 250, 100
+        Defender110_dver_1_2, *, 250, 100
+        Defender110_dver_2_2, *, 250, 100
+        Defender110_kapot, *, 510, 100
+        Defender110_bagazhnik, *, 250, 100
+        Defender110_koleso, *, 250, 100
+        Defender110_dver_1_1_Green, *, 250, 100
+        Defender110_dver_2_1_Green, *, 250, 100
+        Defender110_dver_1_2_Green, *, 250, 100
+        Defender110_dver_2_2_Green, *, 250, 100
+        Defender110_kapot_Green, *, 250, 100
+        Defender110_bagazhnik_Green, *, 250, 100
+        Defender110_dver_1_1_UN, *, 250, 100
+        Defender110_dver_2_1_UN, *, 250, 100
+        Defender110_dver_1_2_UN, *, 250, 100
+        Defender110_dver_2_2_UN, *, 250, 100
+        Defender110_kapot_UN, *, 250, 100
+        Defender110_bagazhnik_UN, *, 250, 100
+
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		20,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
 		

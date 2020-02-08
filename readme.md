@@ -93,3 +93,14 @@
 - Added Payday (game) masks to the trader to buy **@Roberts**
 - Added defibs to the trader store **@Roberts**
 
+**08/02/2020 Update**
+
+- Added spawn locations for money **@Roberts**
+- Changed rain cycle (less rain) **@Roberts**
+- Added the Defender **@Roberts @Bob Wilkinson**
+- Added the Defender to the trader **@Roberts**
+- Fixed spawning with the RPUK Hoodies **@Roberts**
+- Removed payday masks **@Roberts**
+- Lowered buy/sell price for certain weapons **@Roberts**
+- Added spawn locations for the defender **@Roberts**
+- Change spawn time for airdrops to 60 minutes  **@Roberts**

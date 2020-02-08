@@ -1,1 +1,0 @@
-class TTSKOBoots extends Clothing {};
