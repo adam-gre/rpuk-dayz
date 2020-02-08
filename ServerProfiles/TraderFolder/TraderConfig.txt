@@ -300,6 +300,8 @@
 		RDG2SmokeGrenade_White,	1,		300,	100
 		FlashGrenade,			1,		300,	100
 		
+	<Category> Modded Weapons 
+	    Coming Soon! 1, -1, -1
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -1035,10 +1037,9 @@
 		CivilianSedan,			V,		20000,	11000
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
-<Category> CrSk_Land_Rover_Defender
-CrSk_Land_Rover_Defender_110, v, 75000, 50000
-CrSk_Land_Rover_Defender_110_Green, v, 75000, 50000
-CrSk_Land_Rover_Defender_110_UN, v, 75000, 50000
+        CrSk_Land_Rover_Defender_110, v, 75000, 50000
+        CrSk_Land_Rover_Defender_110_Green, v, 75000, 50000
+        CrSk_Land_Rover_Defender_110_UN, v, 75000, 50000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
