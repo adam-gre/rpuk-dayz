@@ -1,5 +1,0 @@
-enum EPulseType
-{
-	REGULAR,
-	IRREGULAR,
-}

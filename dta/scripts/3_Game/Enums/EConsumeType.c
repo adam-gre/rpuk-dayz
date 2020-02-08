@@ -1,7 +1,0 @@
-enum EConsumeType
-{
-	ITEM_SINGLE_TIME,
-	ITEM_CONTINUOUS,
-	ENVIRO_POND,
-	ENVIRO_WELL,
-}
