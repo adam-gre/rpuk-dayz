@@ -197,9 +197,9 @@
 	Sedan_02_Wheel
 	Sedan_02_Wheel	
 	
-<VehicleParts> CrSk_Land_Rover_Defender_110_Red
-    HeadlightH7
-    HeadlightH7
+
+
+<VehicleParts> CrSk_Land_Rover_Defender_110
     SparkPlug
     CarBattery
     CarRadiator
@@ -208,12 +208,44 @@
     Defender110_koleso
     Defender110_koleso
     Defender110_koleso
-    Defender110_dver_1_1_Red
-    Defender110_dver_2_1_Red
-    Defender110_dver_1_2_Red
-    Defender110_dver_2_2_Red
-    Defender110_kapot_Red
-    Defender110_bagazhnik_Red
+    Defender110_dver_1_1
+    Defender110_dver_2_1
+    Defender110_dver_1_2
+    Defender110_dver_2_2
+    Defender110_kapot
+    Defender110_bagazhnik
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_Green
+SparkPlug
+CarBattery
+CarRadiator
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_dver_1_1_Green
+Defender110_dver_2_1_Green
+Defender110_dver_1_2_Green
+Defender110_dver_2_2_Green
+Defender110_kapot_Green
+Defender110_bagazhnik_Green
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_UN
+SparkPlug
+CarBattery
+CarRadiator
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_dver_1_1_UN
+Defender110_dver_2_1_UN
+Defender110_dver_1_2_UN
+Defender110_dver_2_2_UN
+Defender110_kapot_UN
+Defender110_bagazhnik_UN
 	
 	
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
