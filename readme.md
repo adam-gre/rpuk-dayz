@@ -102,5 +102,5 @@
 - Fixed spawning with the RPUK Hoodies **@Roberts**
 - Removed payday masks **@Roberts**
 - Lowered buy/sell price for certain weapons **@Roberts**
-
-
+- Added spawn locations for the defender **@Roberts**
+- Change spawn time for airdrops to 60 minutes  **@Roberts**

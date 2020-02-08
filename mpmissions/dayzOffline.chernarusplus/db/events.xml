@@ -575,7 +575,7 @@
     </event>
     <event name="StaticHeliCrash">
         <nominal>3</nominal>
-        <min>0</min>
+        <min>1</min>
         <max>0</max>
         <lifetime>2500</lifetime>
         <restock>0</restock>
@@ -842,7 +842,7 @@
     </event>
 		<event name="LandRoverDefender">
 		<waves>0</waves>
-		<nominal>25</nominal>
+		<nominal>5</nominal>
 		<min>20</min>
 		<max>25</max>
 		<lifetime>300</lifetime>
