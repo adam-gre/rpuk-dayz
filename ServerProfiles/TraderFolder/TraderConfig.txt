@@ -1035,6 +1035,7 @@
 		CivilianSedan,			V,		20000,	11000
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
+		CrSk_Land_Rover_Defender_110_Red, v, 50000, 20000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
@@ -1180,6 +1181,12 @@
 		CivSedanDoors_BackRight_WineRust,	*,		500,	180
 		CivSedanDoors_BackRight_BlackRust,	*,		500,	180
 		CivSedanWheel,						*,		600,	120
+		Defender110_dver_1_1_Red,           *,      250,    100
+        Defender110_dver_2_1_Red,           *,      250,    100
+        Defender110_dver_1_2_Red,           *,      250,    100
+        Defender110_dver_2_2_Red,           *,      250,    100
+        Defender110_kapot_Red,              *,      250,    100
+        Defender110_bagazhnik_Red,          *,      250,    100
 		
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		20,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
