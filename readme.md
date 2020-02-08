@@ -100,5 +100,7 @@
 - Added the Defender **@Roberts @Bob Wilkinson**
 - Added the Defender to the trader **@Roberts**
 - Fixed spawning with the RPUK Hoodies **@Roberts**
+- Removed payday masks **@Roberts**
+- Lowered buy/sell price for certain weapons **@Roberts**
 
 
