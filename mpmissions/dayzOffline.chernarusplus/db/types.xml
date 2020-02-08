@@ -18333,8 +18333,8 @@
     </type>
 <!-- Defender -->	
 <type name="CrSk_Land_Rover_Defender_110">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -18343,8 +18343,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="CrSk_Land_Rover_Defender_110_Green">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -18353,8 +18353,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="CrSk_Land_Rover_Defender_110_UN">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -18612,7 +18612,5 @@
     <type name="ProxyDefender110_koleso_destroyed">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>nt_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-
-
+    </type>
 </types>
