@@ -93,7 +93,7 @@
 - Added Payday (game) masks to the trader to buy **@Roberts**
 - Added defibs to the trader store **@Roberts**
 
-**08/02/2020 Update**
+**14/02/2020 Update**
 
 - Added spawn locations for money **@Roberts**
 - Changed rain cycle (less rain) **@Roberts**
@@ -102,3 +102,5 @@
 - Lowered buy/sell price for certain weapons **@Roberts**
 - Added Party System **@Meeloo**
 - Added Mods: PartyMe, Defender **@Meeloo Roberts**
+- Changed default markers to show Trader locations **@Bob Wilkinson**
+- Potential fix for vehicles despawning **@Meeloo @Bob Wilkinson**
