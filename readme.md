@@ -103,3 +103,4 @@
 - Added Party System **@Meeloo**
 - Added Mods: PartyMe, Defender **@Meeloo Roberts**
 - Changed default markers to show Trader locations **@Bob Wilkinson**
+- Potential fix for vehicles despawning **@Meeloo @Bob Wilkinson**
