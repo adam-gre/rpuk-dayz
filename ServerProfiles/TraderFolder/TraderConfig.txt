@@ -276,17 +276,17 @@
 		
 	<Category> Assault Rifles
 		FAL,					W,		14000,	3000
-		AKM,					W,		12000,	750
-		AK101,					W,		7000,	750
-		AK74,					W,		10000,	750
-		M4A1,					W,		12000,	2500
+		AKM,					W,		12000,	1300
+		AK101,					W,		7000,	1000
+		AK74,					W,		10000,	1200
+		M4A1,					W,		12000,	3200
 		
 	//<Category> Light Machine Guns
 		
 	<Category> Sniper Rifles
 		VSS,					W,		5500,	1500
 		B95,					W,		3000,	1100
-		SVD,					W,		6000,	2500
+		SVD,					W,		8000,	2500
 		
 	<Category> Grenades
 		RGD5Grenade,			1,		300,	100
@@ -301,7 +301,7 @@
 		FlashGrenade,			1,		300,	100
 		
 	<Category> Modded Weapons 
-	    Coming Soon! 1, -1, -1
+	    Coming Soon! W, -1, -1
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -364,11 +364,11 @@
 		Mag_Saiga_Drum20Rnd,	M,		480,	110
 		Mag_AKM_30Rnd,			M,		220,	110
 		Mag_AKM_Palm30Rnd,		M,		220,	110
-		Mag_AKM_Drum75Rnd,		M,		480,	220
-		Mag_AK101_30Rnd,		M,		220,	110
-		Mag_AK74_30Rnd,			M,		220,	110
-		Mag_STANAG_30Rnd,		M,		220,	110
-		Mag_STANAGCoupled_30Rnd,M,		480,	220
+		Mag_AKM_Drum75Rnd,		M,		580,	220
+		Mag_AK101_30Rnd,		M,		320,	110
+		Mag_AK74_30Rnd,			M,		320,	110
+		Mag_STANAG_30Rnd,		M,		320,	110
+		Mag_STANAGCoupled_30Rnd,M,		600,	220
 		Mag_CMAG_10Rnd,			M,		120,	60
 		Mag_CMAG_20Rnd,			M,		180,	80
 		Mag_CMAG_30Rnd,			M,		220,	110
@@ -1037,9 +1037,9 @@
 		CivilianSedan,			V,		20000,	11000
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
-        CrSk_Land_Rover_Defender_110, V, 75000, 50000
-        CrSk_Land_Rover_Defender_110_Green, V, 75000, 50000
-        CrSk_Land_Rover_Defender_110_UN, V, 75000, 50000
+        CrSk_Land_Rover_Defender_110, V, 50000, 20000
+        CrSk_Land_Rover_Defender_110_Green, V, 50000, 20000
+        CrSk_Land_Rover_Defender_110_UN, V, 50000, 20000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
