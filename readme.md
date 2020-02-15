@@ -111,3 +111,4 @@
 - Lowered quantity of money in money spawns **@Roberts**
 - Lowered spawn rate of money **@Roberts**
 - Added modded weapons to the trader **@Roberts** 
+- Reorganised Vehicle trader for less clutter **@Bob Wilkinson**
