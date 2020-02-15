@@ -127,5 +127,6 @@
 - Added the Ruger to the trader **@Roberts**
 - Added the M249 to the trader **@Roberts**
 - Added the Scout Rifle to the trader **@Roberts**
+- Added the G36 to the trader **@Roberts**
 - Removed Payday masks from the trader **@Roberts**
 - Vehicles left in the buy/sell spawnzone for vehicles will be deleted after 5 minutes **@Roberts**

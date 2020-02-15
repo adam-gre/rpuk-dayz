@@ -312,6 +312,7 @@
 		Scar                    W,      10000, 3000
 		VityazSN                W,      4500, 1150
 		M14                     W,      3700, 1000
+		G36                     W,      3200, 950
 		gp_P1                   W,      3200, 950
 		gp_DE                   W,      8000, 2100
 		gp_AugSteyr             W,      7000, 1900
@@ -452,7 +453,9 @@
 		
 	<Category> Flashlights
 		Universallight,			*,		250,	120
-	
+		
+	<Category> Modded Ammunition
+	    Coming Soon!            *,       -1,     -1
 	
 <Trader> Clothing Trader
 	<Category> Glasses
