@@ -301,6 +301,7 @@
 		FlashGrenade,			1,		300,	100
 		
 	<Category> Modded Weapons 
+
 		AWMreal,                 W,      4000, 1200
 		Kar98real,               W,      4200, 1400
 		M1A,                     W,      4200, 1400
@@ -318,6 +319,7 @@
 		gp_Ruger1022,            W,      4200, 1400
 		gp_M249,                 W,      12000, 3200
 		gp_ScoutNew,             W,      10000, 2400
+
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -450,7 +452,6 @@
 		
 	<Category> Flashlights
 		Universallight,			*,		250,	120
-	
 	
 <Trader> Clothing Trader
 	<Category> Glasses
@@ -625,9 +626,9 @@
 		BandanaMask_CamoPattern,*,		35,		10
 		NioshFaceMask,			*,		40,		10
 		HockeyMask,				*,		40,		10
-		HoxtonMask,			*,		    80,		40
-		WolfMask,				*,		80,		40
-		DallasMask,			*,		    80,		40
+		//HoxtonMask,			*,		    80,		40
+		//WolfMask,				*,		80,		40
+		//DallasMask,			*,		    80,		40
 		Balaclava3Holes_Blue,	*,		50,		40
 		Balaclava3Holes_Beige,	*,		50,		12
 		Balaclava3Holes_Black,	*,		55,		13
@@ -1040,6 +1041,7 @@
 	
 	
 <Trader> Vehicles Trader
+
 	<Category> Vehicles
 		OffroadHatchback,		V,		14000,	8000			// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
 		OffroadHatchback_Blue,	V,		14000,	8000			// Ada
@@ -1056,8 +1058,9 @@
         CrSk_Land_Rover_Defender_110, V, 50000, 20000			// Defender
         CrSk_Land_Rover_Defender_110_Green, V, 50000, 20000
         CrSk_Land_Rover_Defender_110_UN, V, 50000, 20000
-	
-	<Category> Vehicle Internals
+
+	<Category> Vehicle Parts
+
 		HeadlightH7_Box,		*,		30,		15
 		SparkPlug,				*,		60,		40
 		EngineOil,				*,		70,		40
@@ -1065,8 +1068,10 @@
 		TruckBattery,			*,		300,	250
 		CarRadiator,			*,		400,	100
 		TireRepairKit,			*,		220,	100
+
 		
 	<Category> Ada 4x4 Parts
+  
 		HatchbackHood,						*,		300,	100
 		HatchbackHood_Blue,					*,		300,	100
 		HatchbackHood_White,				*,		300,	100
@@ -1094,6 +1099,8 @@
 		HatchbackWheel,						*,		500,	200
 	
 	<Category> Gunter 2 Parts
+						
+
 		Hatchback_02_Hood,				*,		300,	100
 		Hatchback_02_Hood_Black,		*,		300,	100
 		Hatchback_02_Hood_Blue,			*,		300,	100
@@ -1133,6 +1140,7 @@
 		Hatchback_02_Wheel,				*,		500,	200
 		
 	<Category> Sarka 120 Parts
+
 		Sedan_02_Hood,					*,		300,	100
 		Sedan_02_Hood_Red,				*,		300,	100
 		Sedan_02_Hood_Grey,				*,		300,	100
@@ -1169,9 +1177,10 @@
 		Sedan_02_Door_2_2_YellowRust,	*,		450,	160  
 		Sedan_02_Door_2_2_RedRust,		*,		450,	160  
 		Sedan_02_Door_2_2_GreyRust,		*,		450,	160  
-		Sedan_02_Wheel,					*,		500,	200
+    Sedan_02_Wheel,					*,		500,	200
 		
 	<Category> Olga 24 Parts
+
 		CivSedanHood,						*,		400,	140
 		CivSedanHood_Wine,					*,		400,	140
 		CivSedanHood_Black,					*,		400,	140
@@ -1231,6 +1240,29 @@
         Defender110_dver_2_2_UN, 			*, 		250, 100
         Defender110_kapot_UN, 				*, 		250, 100
         Defender110_bagazhnik_UN, 			*, 		250, 100
+
+<Category> land rover parts
+        Defender110_koleso, *, 510, 100
+        Defender110_dver_1_1, *, 250, 100
+        Defender110_dver_2_1, *, 250, 100
+        Defender110_dver_1_2, *, 250, 100
+        Defender110_dver_2_2, *, 250, 100
+        Defender110_kapot, *, 510, 100
+        Defender110_bagazhnik, *, 250, 100
+        Defender110_koleso, *, 250, 100
+        Defender110_dver_1_1_Green, *, 250, 100
+        Defender110_dver_2_1_Green, *, 250, 100
+        Defender110_dver_1_2_Green, *, 250, 100
+        Defender110_dver_2_2_Green, *, 250, 100
+        Defender110_kapot_Green, *, 250, 100
+        Defender110_bagazhnik_Green, *, 250, 100
+        Defender110_dver_1_1_UN, *, 250, 100
+        Defender110_dver_2_1_UN, *, 250, 100
+        Defender110_dver_1_2_UN, *, 250, 100
+        Defender110_dver_2_2_UN, *, 250, 100
+        Defender110_kapot_UN, *, 250, 100
+        Defender110_bagazhnik_UN, *, 250, 100
+
 
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		20,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
