@@ -301,8 +301,7 @@
 		FlashGrenade,			1,		300,	100
 		
 	<Category> Modded Weapons 
-	    Coming Soon! W, -1, -1
-		AWMreal                 W,      4000, 1200
+	    AWMreal                 W,      4000, 1200
 		Kar98real               W,      4200, 1400
 		M1A                     W,      4200, 1400
 		M16                     W,      5100, 1600
@@ -1045,6 +1044,10 @@
 	
 	
 <Trader> Vehicles Trader
+    <category> Disclamer
+	    Please note that vehicles are very buggy at times                   *, -1,    -1 
+		We do not compensate for crashed vehicles due to lag spikes         *, -1,    -1 
+	
 	<Category> Vehicles
 		OffroadHatchback,		V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
 		OffroadHatchback_Blue,	V,		14000,	8000
