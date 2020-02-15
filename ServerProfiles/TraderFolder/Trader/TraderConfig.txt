@@ -301,24 +301,25 @@
 		FlashGrenade,			1,		300,	100
 		
 	<Category> Modded Weapons 
-	    AWMreal                 W,      4000, 1200
-		Kar98real               W,      4200, 1400
-		M1A                     W,      4200, 1400
-		M16                     W,      5100, 1600
-		Mk22                    W,      4900, 1500
-		MP7                     W,      2400, 900
-		StechkinAPS             W,      1700, 500
-		Scar                    W,      10000, 3000
-		VityazSN                W,      4500, 1150
-		M14                     W,      3700, 1000
-		G36                     W,      3200, 950
-		gp_P1                   W,      3200, 950
-		gp_DE                   W,      8000, 2100
-		gp_AugSteyr             W,      7000, 1900
-		gp_Longhorn             W,      6000, 1800
-		gp_Ruger1022            W,      4200, 1400
-		gp_M249                 W,      12000, 3200
-		gp_ScoutNew             W,      10000, 2400
+
+		AWMreal,                 W,      4000, 1200
+		Kar98real,               W,      4200, 1400
+		M1A,                     W,      4200, 1400
+		M16,                     W,      5100, 1600
+		Mk22,                    W,      4900, 1500
+		MP7,                     W,      2400, 900
+		StechkinAPS,             W,      1700, 500
+		Scar,                    W,      10000, 3000
+		VityazSN,                W,      4500, 1150
+		M14,                     W,      3700, 1000
+		gp_P1,                   W,      3200, 950
+		gp_DE,                   W,      8000, 2100
+		gp_AugSteyr,             W,      7000, 1900
+		gp_Longhorn,             W,      6000, 1800
+		gp_Ruger1022,            W,      4200, 1400
+		gp_M249,                 W,      12000, 3200
+		gp_ScoutNew,             W,      10000, 2400
+
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -394,7 +395,6 @@
 		Mag_SVD_10Rnd,			M,		250,	125
 		Mag_308WinSnaploader_2Rnd,		M,		250,	125
 		
-		
 	<Category> Handguards
 		MP5_PlasticHndgrd,		*,		100,	50
 		MP5_RailHndgrd,			*,		150,	75
@@ -452,9 +452,6 @@
 		
 	<Category> Flashlights
 		Universallight,			*,		250,	120
-		
-	<Category> Modded Ammunition
-	    Coming Soon!            *,       -1,     -1
 	
 <Trader> Clothing Trader
 	<Category> Glasses
@@ -1044,28 +1041,26 @@
 	
 	
 <Trader> Vehicles Trader
-    <category> Disclamer
-	    Please note that vehicles are very buggy at times                   *, -1,    -1 
-		We do not compensate for crashed vehicles due to lag spikes         *, -1,    -1 
-	
+
 	<Category> Vehicles
-		OffroadHatchback,		V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,	V,		14000,	8000
+		OffroadHatchback,		V,		14000,	8000			// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,	V,		14000,	8000			// Ada
 		OffroadHatchback_White,	V,		14000,	8000
-		Hatchback_02,			V,		16000,	9600
+		Hatchback_02,			V,		16000,	9600			// Gunter
 		Hatchback_02_Blue,		V,		16000,	9600
 		Hatchback_02_Black,		V,		16000,	9600
-		Sedan_02,				V,		18000,	10200
+		Sedan_02,				V,		18000,	10200 			// Sarka
 		Sedan_02_Red,			V,		18000,	10200
 		Sedan_02_Grey,			V,		18000,	10200
-		CivilianSedan,			V,		20000,	11000
+		CivilianSedan,			V,		20000,	11000			// Olga
 		CivilianSedan_Wine,		V,		20000,	11000
 		CivilianSedan_Black,	V,		20000,	11000
-        CrSk_Land_Rover_Defender_110, V, 50000, 20000
+        CrSk_Land_Rover_Defender_110, V, 50000, 20000			// Defender
         CrSk_Land_Rover_Defender_110_Green, V, 50000, 20000
         CrSk_Land_Rover_Defender_110_UN, V, 50000, 20000
-	
+
 	<Category> Vehicle Parts
+
 		HeadlightH7_Box,		*,		30,		15
 		SparkPlug,				*,		60,		40
 		EngineOil,				*,		70,		40
@@ -1073,6 +1068,10 @@
 		TruckBattery,			*,		300,	250
 		CarRadiator,			*,		400,	100
 		TireRepairKit,			*,		220,	100
+
+		
+	<Category> Ada 4x4 Parts
+  
 		HatchbackHood,						*,		300,	100
 		HatchbackHood_Blue,					*,		300,	100
 		HatchbackHood_White,				*,		300,	100
@@ -1097,7 +1096,11 @@
 		HatchbackDoors_CoDriver_GreenRust,	*,		450,	160
 		HatchbackDoors_CoDriver_BlueRust,	*,		450,	160
 		HatchbackDoors_CoDriver_WhiteRust,	*,		450,	160
-		HatchbackWheel,						*,		500,	100
+		HatchbackWheel,						*,		500,	200
+	
+	<Category> Gunter 2 Parts
+						
+
 		Hatchback_02_Hood,				*,		300,	100
 		Hatchback_02_Hood_Black,		*,		300,	100
 		Hatchback_02_Hood_Blue,			*,		300,	100
@@ -1134,7 +1137,10 @@
 		Hatchback_02_Door_2_2_RedRust,	*,		450,	160
 		Hatchback_02_Door_2_2_BlackRust,*,		450,	160
 		Hatchback_02_Door_2_2_BlueRust,	*,		450,	160
-		Hatchback_02_Wheel,				*,		500,	100
+		Hatchback_02_Wheel,				*,		500,	200
+		
+	<Category> Sarka 120 Parts
+
 		Sedan_02_Hood,					*,		300,	100
 		Sedan_02_Hood_Red,				*,		300,	100
 		Sedan_02_Hood_Grey,				*,		300,	100
@@ -1171,7 +1177,10 @@
 		Sedan_02_Door_2_2_YellowRust,	*,		450,	160  
 		Sedan_02_Door_2_2_RedRust,		*,		450,	160  
 		Sedan_02_Door_2_2_GreyRust,		*,		450,	160  
-		Sedan_02_Wheel,					*,		500,	100
+    Sedan_02_Wheel,					*,		500,	200
+		
+	<Category> Olga 24 Parts
+
 		CivSedanHood,						*,		400,	140
 		CivSedanHood_Wine,					*,		400,	140
 		CivSedanHood_Black,					*,		400,	140
@@ -1208,7 +1217,30 @@
 		CivSedanDoors_BackRight_WhiteRust,	*,		500,	180
 		CivSedanDoors_BackRight_WineRust,	*,		500,	180
 		CivSedanDoors_BackRight_BlackRust,	*,		500,	180
-		CivSedanWheel,						*,		600,	120
+		CivSedanWheel,						*,		600,	200
+		
+	<Category> Defender Parts
+        Defender110_koleso, 				*, 		510, 100
+        Defender110_dver_1_1, 				*, 		250, 100
+        Defender110_dver_2_1, 				*, 		250, 100
+        Defender110_dver_1_2, 				*, 		250, 100
+        Defender110_dver_2_2, 				*, 		250, 100
+        Defender110_kapot, 					*, 		510, 100
+        Defender110_bagazhnik, 				*, 		250, 100
+        Defender110_koleso, 				*, 		250, 100
+        Defender110_dver_1_1_Green, 		*, 		250, 100
+        Defender110_dver_2_1_Green, 		*, 		250, 100
+        Defender110_dver_1_2_Green, 		*, 		250, 100
+        Defender110_dver_2_2_Green, 		*, 		250, 100
+        Defender110_kapot_Green, 			*, 		250, 100
+        Defender110_bagazhnik_Green, 		*, 		250, 100
+        Defender110_dver_1_1_UN, 			*, 		250, 100
+        Defender110_dver_2_1_UN, 			*, 		250, 100
+        Defender110_dver_1_2_UN, 			*, 		250, 100
+        Defender110_dver_2_2_UN, 			*, 		250, 100
+        Defender110_kapot_UN, 				*, 		250, 100
+        Defender110_bagazhnik_UN, 			*, 		250, 100
+
 <Category> land rover parts
         Defender110_koleso, *, 510, 100
         Defender110_dver_1_1, *, 250, 100
@@ -1230,6 +1262,7 @@
         Defender110_dver_2_2_UN, *, 250, 100
         Defender110_kapot_UN, *, 250, 100
         Defender110_bagazhnik_UN, *, 250, 100
+
 
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		20,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1

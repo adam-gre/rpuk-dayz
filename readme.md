@@ -110,6 +110,8 @@
 
 - Lowered quantity of money in money spawns **@Roberts**
 - Lowered spawn rate of money **@Roberts**
+- Added modded weapons to the trader **@Roberts** 
+- Reorganised Vehicle trader for less clutter **@Bob Wilkinson*
 - Added AWMreal to the trader **@Roberts**
 - Added Kar98real to the trader **@Roberts**
 - Added M1A to the trader **@Roberts**
@@ -130,3 +132,4 @@
 - Added the G36 to the trader **@Roberts**
 - Removed Payday masks from the trader **@Roberts**
 - Vehicles left in the buy/sell spawnzone for vehicles will be deleted after 5 minutes **@Roberts**
+
