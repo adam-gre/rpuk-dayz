@@ -302,7 +302,23 @@
 		
 	<Category> Modded Weapons 
 	    Coming Soon! W, -1, -1
-		
+		AWMreal                 W,      4000, 1200
+		Kar98real               W,      4200, 1400
+		M1A                     W,      4200, 1400
+		M16                     W,      5100, 1600
+		Mk22                    W,      4900, 1500
+		MP7                     W,      2400, 900
+		StechkinAPS             W,      1700, 500
+		Scar                    W,      10000, 3000
+		VityazSN                W,      4500, 1150
+		M14                     W,      3700, 1000
+		gp_P1                   W,      3200, 950
+		gp_DE                   W,      8000, 2100
+		gp_AugSteyr             W,      7000, 1900
+		gp_Longhorn             W,      6000, 1800
+		gp_Ruger1022            W,      4200, 1400
+		gp_M249                 W,      12000, 3200
+		gp_ScoutNew             W,      10000, 2400
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
