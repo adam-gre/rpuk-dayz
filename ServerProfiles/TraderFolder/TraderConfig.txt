@@ -394,6 +394,7 @@
 		Mag_SVD_10Rnd,			M,		250,	125
 		Mag_308WinSnaploader_2Rnd,		M,		250,	125
 		
+		
 	<Category> Handguards
 		MP5_PlasticHndgrd,		*,		100,	50
 		MP5_RailHndgrd,			*,		150,	75
@@ -626,9 +627,9 @@
 		BandanaMask_CamoPattern,*,		35,		10
 		NioshFaceMask,			*,		40,		10
 		HockeyMask,				*,		40,		10
-		HoxtonMask,			*,		    80,		40
-		WolfMask,				*,		80,		40
-		DallasMask,			*,		    80,		40
+		//HoxtonMask,			*,		    80,		40
+		//WolfMask,				*,		80,		40
+		//DallasMask,			*,		    80,		40
 		Balaclava3Holes_Blue,	*,		50,		40
 		Balaclava3Holes_Beige,	*,		50,		12
 		Balaclava3Holes_Black,	*,		55,		13

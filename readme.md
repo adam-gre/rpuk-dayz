@@ -110,4 +110,22 @@
 
 - Lowered quantity of money in money spawns **@Roberts**
 - Lowered spawn rate of money **@Roberts**
-- Added modded weapons to the trader **@Roberts** 
+- Added AWMreal to the trader **@Roberts**
+- Added Kar98real to the trader **@Roberts**
+- Added M1A to the trader **@Roberts**
+- Added M16 to the trader **@Roberts**
+- Added Mk22 to the trader **@Roberts**
+- Added MP7 to the trader **@Roberts**
+- Added StechkinAPS to the trader **@Roberts**
+- Added Scar to the trader **@Roberts**
+- Added VityazSN to the trader **@Roberts**
+- Added M14 to the trader **@Roberts**
+- Added the P1 to the trader **@Roberts**
+- Added the Desert Eagle to the trader **@Roberts**
+- Added the AugSteyr to the trader **@Roberts**
+- Added the Longhorn to the trader **@Roberts**
+- Added the Ruger to the trader **@Roberts**
+- Added the M249 to the trader **@Roberts**
+- Added the Scout Rifle to the trader **@Roberts**
+- Removed Payday masks from the trader **@Roberts**
+- Vehicles left in the buy/sell spawnzone for vehicles will be deleted after 5 minutes **@Roberts**
