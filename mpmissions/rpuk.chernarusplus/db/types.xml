@@ -18240,12 +18240,12 @@
     </type>
 	
 	<type name="MoneyRuble1">
-		<nominal>150</nominal>
+		<nominal>20</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<min>100</min>
 		<quantmin>1</quantmin>
-		<quantmax>100</quantmax>
+		<quantmax>2</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
@@ -18255,12 +18255,12 @@
 		<usage name="Hunting"/>
 	</type>
 	<type name="MoneyRuble5">
-		<nominal>150</nominal>
+		<nominal>20</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<min>100</min>
 		<quantmin>1</quantmin>
-		<quantmax>100</quantmax>
+		<quantmax>2</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
@@ -18270,12 +18270,12 @@
 		<usage name="Hunting"/>
 	</type>
 	<type name="MoneyRuble10">
-		<nominal>120</nominal>
+		<nominal>20</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<min>75</min>
 		<quantmin>1</quantmin>
-		<quantmax>100</quantmax>
+		<quantmax>2</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
@@ -18285,12 +18285,12 @@
 		<usage name="Hunting"/>
 	</type>
 	<type name="MoneyRuble25">
-		<nominal>75</nominal>
+		<nominal>15</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<min>50</min>
 		<quantmin>1</quantmin>
-		<quantmax>100</quantmax>
+		<quantmax>2</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>

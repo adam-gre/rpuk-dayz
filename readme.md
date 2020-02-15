@@ -104,3 +104,9 @@
 - Added Mods: PartyMe, Defender **@Meeloo Roberts**
 - Changed default markers to show Trader locations **@Bob Wilkinson**
 - Potential fix for vehicles despawning **@Meeloo @Bob Wilkinson**
+
+
+**HOTFIX**
+
+- Lowered quantity of money in money spawns **@Roberts**
+- Lowered spawn rate of money **@Roberts**
