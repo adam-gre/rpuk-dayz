@@ -119,7 +119,7 @@
 	<Category> Tools (small)
 		Screwdriver,			*,		7,		1
 		Wrench,					*,		7,		1
-		SewingKit,				*,		20, 		1
+		SewingKit,				*,		20, 	1
 		Pliers,					*,		7, 		1
 		LeatherSewingKit,		*,		7, 		2
 		Whetstone,				*,		6,		2
@@ -136,8 +136,8 @@
 		Hatchet,				*,		60,		4
 		CombatKnife,			*,		65,		5
 		Machete,				*,		45,		6	
-		ChernarusMap,			*,		0,		5
-		Lockpick,				*,		120,		10
+		ChernarusMap,			*,		0,		0
+		Lockpick,				*,		120,	10
 		Binoculars,				*,		40,		15		
 		FishingRod,				*,		15,		15
 		
