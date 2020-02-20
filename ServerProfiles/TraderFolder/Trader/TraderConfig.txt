@@ -365,7 +365,8 @@
 		AmmoBox_762x39Tracer_20Rnd,		*,		160,	80
 		AmmoBox_762x54Tracer_20Rnd,		*,		400,	200
 		
-	<Category> Magazines
+	
+     <Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
 		Mag_CZ75_15Rnd,			M,		40,		20
 		Mag_Glock_15Rnd,		M,		40,		20
