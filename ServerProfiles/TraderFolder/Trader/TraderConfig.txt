@@ -83,13 +83,13 @@
 		Vodka,					*,		12,		8
 		
 	<Category> Medical Supplies
-		//Rag,					1,		3,		-1
+		//Rag,					1,		3,	    -1
 		BandageDressing,		*,		10,		1
 		BloodTestKit,			*,		15,		2
-		//InjectionVial,		*,		15, 		2
+		//InjectionVial,		*,		15, 	2
 		Thermometer,			*,		17,		2
 		DisinfectantSpray,		*,		8,		5
-		//Syringe,				*,		20, 		5
+		//Syringe,				*,		20, 	5
 		Heatpack,				*,		20,		5
 		StartKitIV,				*,		20,		6
 		SalineBag,				*,		25,		8
@@ -255,11 +255,11 @@
 		MKII,					W,		420,	160
 		Colt1911,				W,		450,	180
 		Engraved1911,			W,		425,	180
-		gp_P1,                   W,      500, 250
+		gp_P1,                   W,      500,   250
 		Mk22,                    W,     1000, 	500
 		StechkinAPS,             W,     2000, 	1000
 		gp_DE,                   W,     8000, 	6000
-		gp_Longhorn,             W,      6000, 1800
+		gp_Longhorn,             W,      6000,  1800
 		
 	<Category> Rifles
 		Izh18,					W,		600,	175
@@ -281,7 +281,7 @@
 		UMP45,					W,		1200,	350
 		MP5K,					W,		1300,	450	
 		AKS74U,					W,		1500,	600
-		MP7,                     W,     2000, 1000
+		MP7,                     W,     2000,   1000
 		
 	<Category> Assault Rifles
 		VityazSN,               W,      4500, 	2250
@@ -289,7 +289,7 @@
 		AK101,					W,		7000,	1000
 		M16,                    W,      5100, 	2550
 		M14,                    W,      3700, 	1000
-		gp_AugSteyr,             W,     7000, 2500
+		gp_AugSteyr,             W,     7000,   2500
 		AK74,					W,		6000,	3000
 		M4A1,					W,		8000,	4000
 		Scar,                   W,     	10000, 	5000
@@ -363,7 +363,8 @@
 		AmmoBox_762x39Tracer_20Rnd,		*,		160,	80
 		AmmoBox_762x54Tracer_20Rnd,		*,		400,	200
 		
-	<Category> Magazines
+	
+     <Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
 		Mag_CZ75_15Rnd,			M,		40,		20
 		Mag_Glock_15Rnd,		M,		40,		20
@@ -449,7 +450,7 @@
 		PSO11Optic,				*,		1400,	840
 		KazuarOptic,			*,		2200,	900
 		MosinLRS 				*,		2500,	1000
-		SniperOptic 				*,	5000,	2500
+		SniperOptic 			*,	    5000,	2500
 	
 	<Category> Supressors
 		PistolSuppressor,		*,		1000,	400
@@ -642,9 +643,9 @@
 		BandanaMask_GreenPattern,*,		30,		8
 		BandanaMask_CamoPattern,*,		35,		10
 		NioshFaceMask,			*,		40,		10
-		HockeyMask,				*,		40,		10
-		HoxtonMask,			*,		    80,		40
-		WolfMask,				*,		80,		40
+		//HockeyMask,				*,		40,		10
+		//HoxtonMask,			*,		    80,		40
+		//WolfMask,				*,		80,		40
 		DallasMask,			*,		    80,		40
 		Balaclava3Holes_Blue,	*,		50,		40
 		Balaclava3Holes_Beige,	*,		50,		12
