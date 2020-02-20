@@ -119,3 +119,5 @@
 **UPDATE**
 - Added modded magazines and ammunition types to trader **@Bob Wilkinson**
 - Tweaked weapon & ammo trader prices **@Bob Wilkinson**
+- Ruined vehicles now get cleaned up after an hour **@Roberts**
+- Added the following weaposn to the airdrop: Desert Eagle, Ruger1022, Glock19 **@Roberts**
