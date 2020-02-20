@@ -262,9 +262,9 @@
 		gp_Longhorn,             W,      6000,  1800
 		
 	<Category> Rifles
-		Izh18,					W,		600,	175
+		Izh18,					W,		900,	450
 		Mosin9130,				W,		1000,	500
-		CZ527,					W,		670,	250
+		CZ527,					W,		900,	450
 		Winchester70,			W,		2000,	1000
 		gp_Ruger1022,           W,      1500, 	500
 		SKS,					W,		900,	450
