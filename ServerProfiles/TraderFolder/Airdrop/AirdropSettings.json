@@ -563,7 +563,8 @@
                 "TTsKOJacket_Camo",
                 "TTSKOPants",
                 "UniversalLight",
-                "WeaponCleaningKit"
+                "WeaponCleaningKit",
+				"Glock19"
             ]
         },
         {
@@ -615,6 +616,9 @@
                 "USMCPants_Desert",
                 "USMCPants_Woodland",
                 "WeaponCleaningKit"
+				"gp_Ruger1022",
+				"gp_DE",
+				""
             ]
         }
     ]
