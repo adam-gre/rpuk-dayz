@@ -121,3 +121,4 @@
 - Tweaked weapon & ammo trader prices **@Bob Wilkinson**
 - Ruined vehicles now get cleaned up after an hour **@Roberts**
 - Added the following weaposn to the airdrop: Desert Eagle, Ruger1022, Glock19 **@Roberts**
+- Fixed M4A1 green variants no longer spawning **@Roberts**
