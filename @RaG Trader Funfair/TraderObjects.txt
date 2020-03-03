@@ -1,0 +1,161 @@
+////////////////////////////////////////////////////////////////
+////////////////////RaG TRADER MADE BY TYSON////////////////////
+////////////////////////////////////////////////////////////////
+
+// RaG Trader Funfair
+
+<Object> 			SurvivorM_Niki                                      //Food
+<ObjectPosition>	13355.3,    5.57225,    6704.32
+<ObjectOrientation>	0,          0,			0
+<ObjectAttachment>	WaterBottle
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	MedicalScrubsHat_White
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	MedicalScrubsShirt_White
+<ObjectAttachment>	MedicalScrubsPants_Blue
+<ObjectAttachment>	NBCBootsGray
+
+<Object> 			SurvivorF_Maria                                      //Tools
+<ObjectPosition>	13320.5,    6.64535,    6763.68
+<ObjectOrientation>	-190.312988,0,			0
+<ObjectAttachment>	Screwdriver
+<ObjectAttachment>	Shovel
+<ObjectAttachment>	WorkingGloves_Yellow
+<ObjectAttachment>	ConstructionHelmet_Yellow
+<ObjectAttachment>	Shirt_RedCheck
+<ObjectAttachment>	CanvasPants_Beige
+<ObjectAttachment>	WorkingBoots_Yellow
+
+<Object> 			SurvivorM_Hassan                                      //Weapons
+<ObjectPosition>	13327.6,    7.83843,    6706.97
+<ObjectOrientation>	89.158005,	0,			0
+<ObjectAttachment>	katana_Mung
+<ObjectAttachment>	AKM
+<ObjectAttachment>	AK_WoodHndgrd
+<ObjectAttachment>	AK_FoldingBttstck
+<ObjectAttachment>	KobraOptic
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	TacticalGoggles
+<ObjectAttachment>	TacticalGloves_Black
+<ObjectAttachment>	Massmichblack
+<ObjectAttachment>	MilitaryGear_GasMask_Black
+<ObjectAttachment>	HighCapacityVest_Black
+<ObjectAttachment>	Massurbancamom65
+<ObjectAttachment>	Massurbancamocargopants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	MassMolleBagBlack
+
+<Object> 			SurvivorM_Elias                                      //Ammo
+<ObjectPosition>	13326.7,    7.83838,    6710.09
+<ObjectOrientation>	89.158005,	0,			0
+<ObjectAttachment>	AmmoBox_9x19_25rnd
+<ObjectAttachment>	NailedBaseballBat
+<ObjectAttachment>	MP5K
+<ObjectAttachment>	MP5_RailHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	MP5k_StockBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	MP5_Compensator
+<ObjectAttachment>	TacticalGloves_Black
+<ObjectAttachment>	Massmichblack
+<ObjectAttachment>	MilitaryGear_GasMask_Black
+<ObjectAttachment>	HighCapacityVest_Black
+<ObjectAttachment>	Massurbancamom65
+<ObjectAttachment>	Massurbancamocargopants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	MassMolleBagBlack
+
+<Object> 			SurvivorM_Taiki                                      //Clothing
+<ObjectPosition>	13341,	    6.76935,	6698.56
+<ObjectOrientation>	89.158005,	0,			0
+<ObjectAttachment>	AviatorGlasses
+<ObjectAttachment>	ZmijovkaCap_Blue
+<ObjectAttachment>	MassWinterHuntingHood
+<ObjectAttachment>	Jeans_BlueDark
+<ObjectAttachment>	Sneakers_White
+
+<Object> 			SurvivorM_Jose                                      //Vehicle
+<ObjectPosition>	13339.9,	5.50063,	6772.97
+<ObjectOrientation>	89.158005,	0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+<Object> 			SurvivorM_Hassan                                      //SQUAD MSF-C
+<ObjectPosition>	13321.5,    6.97231,    6727.1
+<ObjectOrientation>	89.158005,	0,			0
+<ObjectAttachment>	katana_Mung
+<ObjectAttachment>	MSFC_M4A1_Kryptek_Neptune
+<ObjectAttachment>	MSFC_AK_RailHndgrd_Kryptek_Neptune
+<ObjectAttachment>	MSFC_M4_OEBttstck_Kryptek_Neptune
+<ObjectAttachment>	KobraOptic
+<ObjectAttachment>	MSFC_SVD_Flecktarn
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	MSFC_BallisticGoggles_Green
+<ObjectAttachment>	MSFCBlackCamoGloves
+<ObjectAttachment>	MSFC_AdvancedCombatHelmet_Black
+<ObjectAttachment>	MSFCGasMaskGP5Black
+<ObjectAttachment>	MSFCPlateCarrierVestMulticamBlackLogo
+<ObjectAttachment>	MSFCM65MulticamBlack
+<ObjectAttachment>	MSFCBlackCamoPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	MSFCRussianMilitaryAssaultBag
+
+<Object> 			SurvivorM_Hassan                                      //FIDOv4
+<ObjectPosition>	13334.6,    5.73734,    6770.99
+<ObjectOrientation>	-190.312988,0,			0
+<ObjectAttachment>	FP4_Nodaty_Sheath
+<ObjectAttachment>	FP4_Groza
+<ObjectAttachment>	M500
+<ObjectAttachment>	FP4_Black_Glasses
+<ObjectAttachment>	Gloves_skeleton
+<ObjectAttachment>	Tactical_Helmet
+<ObjectAttachment>	JuggerVestFULL_black
+<ObjectAttachment>	M65Jacket_LES
+<ObjectAttachment>	CargoPants_LES
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	FP4_POHOD_Bag_BLACK
+
+// RaG Trader Funfair
+
+<TraderMarker> 			0                                      //Food
+<TraderMarkerPosition>	13355.3,    5.57225,    6704.32
+<TraderMarkerSafezone>	160
+
+<TraderMarker> 			1                                      //Tools
+<TraderMarkerPosition>	13320.5,    6.64535,    6763.68
+<TraderMarkerSafezone>	160
+
+<TraderMarker> 			2                                      //Weapons
+<TraderMarkerPosition>	13327.6,    7.83843,    6706.97
+<TraderMarkerSafezone>	160
+
+<TraderMarker> 			3                                      //Ammo
+<TraderMarkerPosition>	13326.7,    7.83838,    6710.09
+<TraderMarkerSafezone>	160
+
+<TraderMarker> 			4                                      //Clothing
+<TraderMarkerPosition>	13341,	    6.76935,	6698.56
+<TraderMarkerSafezone>	160
+
+<TraderMarker> 			5                                      //Vehicle
+<TraderMarkerPosition>	13339.9,	5.50063,	6772.97
+<TraderMarkerSafezone>	160
+<VehicleSpawn>			13348.288086,	5.213642,	6776.918457
+<VehicleSpawnOri>		-20.053961,		-2.172455,			-2.315334
+
+<TraderMarker> 			6                                      //SQUAD MSF-C
+<TraderMarkerPosition>	13321.5,    6.97231,    6727.1
+<TraderMarkerSafezone>	160
+
+<TraderMarker> 			7                                      //FIDOv4
+<TraderMarkerPosition>	13334.6,    5.73734,    6770.48
+<TraderMarkerSafezone>	160
+
+/////////////////////////////////////////////////////////
+////////////////////END OF RaG TRADER////////////////////
+/////////////////////////////////////////////////////////

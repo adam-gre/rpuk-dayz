@@ -16,12 +16,6 @@ void SpawnObject(string objectName, vector position, vector orientation)
     }
 }
 
-<!------------------------------------------------------------------------------------------!>
-
-	//INIT BUILDINGS
-	AddBuildings();	
-		//GetCEApi().ExportProxyData("7500 0 7500", 10000);  //Centre of map, radius of how far to go out and find buildings.
-
 void main()
 {
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
@@ -30,7 +24,7 @@ void main()
 	weather.MissionWeather(false);    // false = use weather controller from Weather.c
 
 	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
-	weather.GetRain().Set( 0, 0, 0.5);
+	weather.GetRain().Set( 0, 0, 1);
 	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
 
 	//INIT ECONOMY--------------------------------------
@@ -61,6 +55,9 @@ void main()
 			}
 		}
 	}
+	//INIT BUILDINGS
+	AddBuildings();	
+		//GetCEApi().ExportProxyData("7500 0 7500", 10000);  //Centre of map, radius of how far to go out and find buildings.
 }
 
 class CustomMission: MissionServer
@@ -87,21 +84,6 @@ class CustomMission: MissionServer
 
 	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
 	{
-		player.RemoveAllItems();
-
-		int rndHoodie = Math.RandomInt(0, 2);
-		if ( rndHoodie == 0 )
-		{
-			player.GetInventory().CreateInInventory("Hoodie_RPUK_Red");
-		}
-		else
-		{
-			player.GetInventory().CreateInInventory("Hoodie_RPUK_Black");
-		}
-		
-		player.GetInventory().CreateInInventory("Jeans_Blue");
-		player.GetInventory().CreateInInventory("AthleticShoes_Black");
-		
 		EntityAI itemTop;
 		EntityAI itemEnt;
 		ItemBase itemBs;
@@ -132,11 +114,7 @@ class CustomMission: MissionServer
 
 			SetRandomHealth(itemEnt);
 		}
-
 	}
-	
-
-
 };
 
 Mission CreateCustomMission(string path)

@@ -1,0 +1,4 @@
+SpawnObject( "DC_BankingATMDarkGreen", "13326.676758 6.065017 6766.269043", "-20.000000 0.000000 0.000000" ); //RaG Trader Funfair
+SpawnObject( "DC_BankingATMDarkBlue", "13345.848633 6.033757 6739.655273", "75.000000 0.000000 0.000000" ); //RaG Trader Funfair
+SpawnObject( "DC_BankingATMOrange", "13349.243164 5.359690 6703.152344", "160.000000 0.000000 0.000000" ); //RaG Trader Funfair
+SpawnObject( "DC_BankingATMRed", "13324.538086 6.165526 6765.516602", "-20.000000 0.000000 0.000000" ); //RaG Trader Funfair

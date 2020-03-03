@@ -1,0 +1,15 @@
+!!!DO NOT LOAD THIS MOD ON YOUR SERVER!!!
+
+The RaG Trader is located in the East between Solnichniy Gas Station and Solnichniy Factory
+
+1. Copy "Buildings.c" in your "dayzOffline.chernarusplus" folder.
+2. Open the "copy this in init.c" file and copy the code inside your init.c; If you dont know what you are doing, ignore Step 2 and go on with Step 3, unless you made any changes in your own init.c
+3. Paste "init.c" in your "dayzOffline.chernarusplus" folder
+4. Copy the Code inside "TraderObjects.txt" in your TraderObjects.txt located in your profile folder.
+5. Thank the great Ragnarok for giving you such a potent Trader.
+
+
+If you still need help, immediatly contact a doctor or join us in the Discord and ask | RaG | Tyson for help.
+
+Discord: https://discord.gg/V2kgyJ7
+
