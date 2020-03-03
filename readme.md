@@ -116,7 +116,8 @@
 - Removed Payday masks from the trader **@Roberts**
 - Vehicles left in the buy/sell spawnzone for vehicles will be deleted after 5 minutes **@Roberts**
 
-**UPDATE**
+**03/03/2020UPDATE**
+
 - Added modded magazines and ammunition types to trader **@Bob Wilkinson**
 - Tweaked weapon & ammo trader prices **@Bob Wilkinson**
 - Ruined vehicles now get cleaned up after an hour **@Roberts**
