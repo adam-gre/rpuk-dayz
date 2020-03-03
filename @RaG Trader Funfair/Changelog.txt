@@ -1,0 +1,9 @@
+06.01.2020
+
+TraderObjects.txt updated
+Buildings.c updated
+Banking ATM's copy in Buildings c.txt updated
+
+16.02.2020
+Buildings.c updated
+(Fix for floating Bumper-Cars etc.)
