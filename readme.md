@@ -126,3 +126,4 @@
 - Tweaked admin permissions ready for the new admin panel **@Roberts**
 - Added a black market **@Roberts @Bob Wilkinson**
 - Added ATM's **@Roberts**
+- Added base furniture items into the trader **@Roberts**
